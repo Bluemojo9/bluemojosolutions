@@ -1,0 +1,138 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ayot50');
+  src:  url('fonts/icomoon.eot?ayot50#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ayot50') format('truetype'),
+    url('fonts/icomoon.woff?ayot50') format('woff'),
+    url('fonts/icomoon.svg?ayot50#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+[class^="icon-techlon-"], [class*="icon-techlon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon';
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-techlon-consultant:before {
+  content: "\e924";
+}
+.icon-techlon-help:before {
+  content: "\e925";
+}
+.icon-techlon-quotes:before {
+  content: "\e91f";
+}
+.icon-techlon-magnifying-glass:before {
+  content: "\e900";
+}
+.icon-techlon-consulting:before {
+  content: "\e901";
+}
+.icon-techlon-new-product:before {
+  content: "\e902";
+}
+.icon-techlon-chip:before {
+  content: "\e903";
+}
+.icon-techlon-web-development:before {
+  content: "\e904";
+}
+.icon-techlon-protection:before {
+  content: "\e905";
+}
+.icon-techlon-analysis:before {
+  content: "\e906";
+}
+.icon-techlon-right-quote:before {
+  content: "\e907";
+}
+.icon-techlon-cloud:before {
+  content: "\e908";
+}
+.icon-techlon-dashboard:before {
+  content: "\e909";
+}
+.icon-techlon-group:before {
+  content: "\e90a";
+}
+.icon-techlon-system:before {
+  content: "\e90b";
+}
+.icon-techlon-cloud-data:before {
+  content: "\e90c";
+}
+.icon-techlon-data-visualization:before {
+  content: "\e90d";
+}
+.icon-techlon-web-design:before {
+  content: "\e90e";
+}
+.icon-techlon-software-engineer:before {
+  content: "\e90f";
+}
+.icon-techlon-smart-tv:before {
+  content: "\e910";
+}
+.icon-techlon-link:before {
+  content: "\e911";
+}
+.icon-techlon-technical-support:before {
+  content: "\e912";
+}
+.icon-techlon-cctv:before {
+  content: "\e913";
+}
+.icon-techlon-coding:before {
+  content: "\e914";
+}
+.icon-techlon-apple:before {
+  content: "\e915";
+}
+.icon-techlon-android:before {
+  content: "\e916";
+}
+.icon-techlon-iot:before {
+  content: "\e917";
+}
+.icon-techlon-smartband:before {
+  content: "\e918";
+}
+.icon-techlon-tv:before {
+  content: "\e919";
+}
+.icon-techlon-phone-ringing:before {
+  content: "\e91a";
+}
+.icon-techlon-right-arrow:before {
+  content: "\e91b";
+}
+.icon-techlon-up-arrow:before {
+  content: "\e91c";
+}
+.icon-techlon-left-arrow:before {
+  content: "\e91d";
+}
+.icon-techlon-down-arrow:before {
+  content: "\e91e";
+}
+.icon-techlon-nanotechnology:before {
+  content: "\e920";
+}
+.icon-techlon-customer-review:before {
+  content: "\e921";
+}
+.icon-techlon-project-management:before {
+  content: "\e922";
+}
+.icon-techlon-developer:before {
+  content: "\e923";
+}

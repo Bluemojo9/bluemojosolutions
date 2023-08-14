@@ -1,0 +1,18 @@
+a:4:{s:8:"template";s:7:"techlon";s:4:"mods";a:4:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:17:"techlon-main-menu";i:3;s:19:"techlon-footer-menu";i:13;}s:18:"custom_css_post_id";i:4090;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1681378811;s:4:"data";a:7:{s:19:"wp_inactive_widgets";a:9:{i:0;s:7:"block-7";i:1;s:7:"block-5";i:2;s:7:"block-6";i:3;s:8:"block-11";i:4;s:6:"meta-2";i:5;s:8:"block-21";i:6;s:8:"block-23";i:7;s:36:"techlon_service_recent_post_widget-3";i:8;s:8:"block-33";}s:15:"footer-1-widget";a:1:{i:0;s:22:"techlon_about_widget-4";}s:15:"footer-2-widget";a:1:{i:0;s:28:"techlon_footer_menu_widget-4";}s:15:"footer-3-widget";a:1:{i:0;s:19:"mc4wp_form_widget-2";}s:15:"footer-4-widget";a:1:{i:0;s:24:"techlon_contact_widget-4";}s:15:"sidebar-service";a:3:{i:0;s:36:"techlon_service_recent_post_widget-4";i:1;s:20:"techlon_cta_widget-2";i:2;s:32:"techlon_download_button_widget-2";}s:12:"sidebar-blog";a:4:{i:0;s:8:"search-2";i:1;s:28:"techlon_recent_post_widget-2";i:2;s:8:"block-36";i:3;s:11:"tag_cloud-2";}}}}s:7:"options";a:2:{s:9:"site_icon";s:4:"3679";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:406:".thm-breadcrumb span,.thm-breadcrumb span a{
+	color:#fff;
+}
+.thm-breadcrumb span a {
+    background: linear-gradient(to right, currentcolor 0%, currentcolor 100%) 0px 92%/0px 1px no-repeat;
+    color: inherit;
+    transition: all 500ms ease;
+}
+.thm-breadcrumb span a:hover {
+    background-size: 100% 1px;
+}
+.sidebar__posts__image img{
+	width:70px;
+	height:70px;
+}
+.contact-one__form p{
+	margin-bottom:0;
+}";}

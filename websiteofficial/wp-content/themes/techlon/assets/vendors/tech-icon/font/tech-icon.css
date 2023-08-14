@@ -1,0 +1,84 @@
+@font-face {
+	font-family: "Tech Icon";
+	src: url("./tech-icon.eot");
+	src: url("./tech-icon.eot?#iefix") format("embedded-opentype"),
+			 url("./tech-icon.woff2") format("woff2"),
+			 url("./tech-icon.woff") format("woff"),
+			 url("./tech-icon.ttf") format("truetype"),
+			 url("./tech-icon.svg#tech-icon") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+		font-family: "Tech Icon";
+		src: url("./tech-icon.svg#tech-icon") format("svg");
+	}
+}
+
+[class^="tech-icon-"]:before, [class*=" tech-icon-"]:before,[class^="tech-icon-"]:after, [class*=" tech-icon-"]:after {
+	display: inline-block;
+	font-family: "Tech Icon";
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	line-height: 1;
+	text-decoration: inherit;
+	text-rendering: optimizeLegibility;
+	text-transform: none;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}
+
+.tech-icon-001-assembly:before { content: "\f100"; }
+.tech-icon-002-factory:before { content: "\f101"; }
+.tech-icon-003-jet-pack:before { content: "\f102"; }
+.tech-icon-004-fire-alarm:before { content: "\f103"; }
+.tech-icon-005-technology:before { content: "\f104"; }
+.tech-icon-006-smart-home:before { content: "\f105"; }
+.tech-icon-007-smart-farming:before { content: "\f106"; }
+.tech-icon-008-3d-glasses:before { content: "\f107"; }
+.tech-icon-009-graphic-tablet:before { content: "\f108"; }
+.tech-icon-010-microchip:before { content: "\f109"; }
+.tech-icon-011-flying-shoe:before { content: "\f10a"; }
+.tech-icon-012-subway:before { content: "\f10b"; }
+.tech-icon-013-gloves:before { content: "\f10c"; }
+.tech-icon-014-flying-car:before { content: "\f10d"; }
+.tech-icon-015-microchip:before { content: "\f10e"; }
+.tech-icon-016-smart-light:before { content: "\f10f"; }
+.tech-icon-017-dna:before { content: "\f110"; }
+.tech-icon-018-robot:before { content: "\f111"; }
+.tech-icon-019-printer:before { content: "\f112"; }
+.tech-icon-020-eye:before { content: "\f113"; }
+.tech-icon-021-smart-watch:before { content: "\f114"; }
+.tech-icon-022-battery:before { content: "\f115"; }
+.tech-icon-023-robotic-arm:before { content: "\f116"; }
+.tech-icon-024-smart-farming:before { content: "\f117"; }
+.tech-icon-025-robotic-arm:before { content: "\f118"; }
+.tech-icon-026-database:before { content: "\f119"; }
+.tech-icon-027-keyboard:before { content: "\f11a"; }
+.tech-icon-028-joystick:before { content: "\f11b"; }
+.tech-icon-029-mind:before { content: "\f11c"; }
+.tech-icon-030-satelite:before { content: "\f11d"; }
+.tech-icon-031-satellite-dish:before { content: "\f11e"; }
+.tech-icon-032-technology:before { content: "\f11f"; }
+.tech-icon-033-laptop:before { content: "\f120"; }
+.tech-icon-034-mobile:before { content: "\f121"; }
+.tech-icon-035-drone:before { content: "\f122"; }
+.tech-icon-036-rocket:before { content: "\f123"; }
+.tech-icon-037-coding:before { content: "\f124"; }
+.tech-icon-038-projector:before { content: "\f125"; }
+.tech-icon-039-battery:before { content: "\f126"; }
+.tech-icon-040-bag:before { content: "\f127"; }
+.tech-icon-041-microchip:before { content: "\f128"; }
+.tech-icon-042-solar-energy:before { content: "\f129"; }
+.tech-icon-043-3d-glasses:before { content: "\f12a"; }
+.tech-icon-044-wifi-router:before { content: "\f12b"; }
+.tech-icon-045-5g:before { content: "\f12c"; }
+.tech-icon-046-mobile:before { content: "\f12d"; }
+.tech-icon-047-data-cable:before { content: "\f12e"; }
+.tech-icon-048-robotic-hand:before { content: "\f12f"; }
+.tech-icon-049-spaceship:before { content: "\f130"; }
+.tech-icon-050-monitor:before { content: "\f131"; }

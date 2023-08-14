@@ -1,0 +1,84 @@
+@font-face {
+  font-family: "Technology Icon";
+  src: url("./technology-icon.eot");
+  src: url("./technology-icon.eot?#iefix") format("embedded-opentype"),
+       url("./technology-icon.woff2") format("woff2"),
+       url("./technology-icon.woff") format("woff"),
+       url("./technology-icon.ttf") format("truetype"),
+       url("./technology-icon.svg#technology-icon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Technology Icon";
+    src: url("./technology-icon.svg#technology-icon") format("svg");
+  }
+}
+
+[class^="technology-icon-"]:before, [class*=" technology-icon-"]:before,[class^="technology-icon-"]:after, [class*=" technology-icon-"]:after {
+  display: inline-block;
+  font-family: "Technology Icon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.technology-icon-001-it-systems:before { content: "\f100"; }
+.technology-icon-002-information:before { content: "\f101"; }
+.technology-icon-003-technology:before { content: "\f102"; }
+.technology-icon-004-governance:before { content: "\f103"; }
+.technology-icon-005-mobile-shopping:before { content: "\f104"; }
+.technology-icon-006-elearning:before { content: "\f105"; }
+.technology-icon-007-spreadsheet:before { content: "\f106"; }
+.technology-icon-008-survey:before { content: "\f107"; }
+.technology-icon-009-capture:before { content: "\f108"; }
+.technology-icon-010-processing:before { content: "\f109"; }
+.technology-icon-011-generate:before { content: "\f10a"; }
+.technology-icon-012-ftp:before { content: "\f10b"; }
+.technology-icon-013-harddisk:before { content: "\f10c"; }
+.technology-icon-014-flash-disk:before { content: "\f10d"; }
+.technology-icon-015-information:before { content: "\f10e"; }
+.technology-icon-016-antenna:before { content: "\f10f"; }
+.technology-icon-017-database:before { content: "\f110"; }
+.technology-icon-018-internet:before { content: "\f111"; }
+.technology-icon-019-cloud-download:before { content: "\f112"; }
+.technology-icon-020-internet:before { content: "\f113"; }
+.technology-icon-021-cyber-security:before { content: "\f114"; }
+.technology-icon-022-install:before { content: "\f115"; }
+.technology-icon-023-programmer:before { content: "\f116"; }
+.technology-icon-024-coding:before { content: "\f117"; }
+.technology-icon-025-mobile-app:before { content: "\f118"; }
+.technology-icon-026-bluetooth:before { content: "\f119"; }
+.technology-icon-027-bookmark:before { content: "\f11a"; }
+.technology-icon-028-fintech:before { content: "\f11b"; }
+.technology-icon-029-bandwidth:before { content: "\f11c"; }
+.technology-icon-030-encryption:before { content: "\f11d"; }
+.technology-icon-031-cloud-service:before { content: "\f11e"; }
+.technology-icon-032-cookies:before { content: "\f11f"; }
+.technology-icon-033-data-center:before { content: "\f120"; }
+.technology-icon-034-firewall:before { content: "\f121"; }
+.technology-icon-035-isp:before { content: "\f122"; }
+.technology-icon-036-email:before { content: "\f123"; }
+.technology-icon-037-antivirus:before { content: "\f124"; }
+.technology-icon-038-web-search-engine:before { content: "\f125"; }
+.technology-icon-039-wifi-connection:before { content: "\f126"; }
+.technology-icon-040-interactive:before { content: "\f127"; }
+.technology-icon-041-broadband:before { content: "\f128"; }
+.technology-icon-042-buffering:before { content: "\f129"; }
+.technology-icon-043-modem:before { content: "\f12a"; }
+.technology-icon-044-computer:before { content: "\f12b"; }
+.technology-icon-045-gps:before { content: "\f12c"; }
+.technology-icon-046-satellite:before { content: "\f12d"; }
+.technology-icon-047-upgrade:before { content: "\f12e"; }
+.technology-icon-048-phising:before { content: "\f12f"; }
+.technology-icon-049-software:before { content: "\f130"; }
+.technology-icon-050-database-management:before { content: "\f131"; }

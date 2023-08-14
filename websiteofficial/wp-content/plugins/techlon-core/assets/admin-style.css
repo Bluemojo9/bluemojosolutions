@@ -1,0 +1,13 @@
+/** 
+ *  CSS style for admin section only
+ */
+
+ /** 
+ ==== Framework Increase font size ===
+ */
+.wp-admin .csf-modal-icon i{
+	width: 62px;
+	height: 62px;
+	line-height: 62px;
+	font-size: 36px; 
+}

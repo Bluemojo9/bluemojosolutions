@@ -1,0 +1,5079 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Student2 Plugin\n"
+"POT-Creation-Date: 2023-04-24 16:20+0530\n"
+"PO-Revision-Date: 2017-12-10 07:01+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_x;"
+"_n;_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bin\n"
+"X-Poedit-SearchPathExcluded-1: tests\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+
+#: elementor/elementor-setup.php:30
+msgid "Techlon Elements"
+msgstr ""
+
+#: elementor/elementor-setup.php:36
+msgid "Techlon Section"
+msgstr ""
+
+#: elementor/elementor-setup.php:85 elementor/elementor-setup.php:203
+msgid "Techlon Theme Option"
+msgstr ""
+
+#: elementor/elementor-setup.php:92
+msgid "Stretch Column Background"
+msgstr ""
+
+#: elementor/elementor-setup.php:99
+msgid "No Stretch"
+msgstr ""
+
+#: elementor/elementor-setup.php:100
+msgid "Stretch Background From Left Side"
+msgstr ""
+
+#: elementor/elementor-setup.php:101
+msgid "Stretch Background From Right Side"
+msgstr ""
+
+#: elementor/elementor-setup.php:102
+msgid "Stretch Background From Both Side"
+msgstr ""
+
+#: elementor/elementor-setup.php:109
+msgid "Stretch Content From Left Side?"
+msgstr ""
+
+#: elementor/elementor-setup.php:125
+msgid "Stretch Content From Right Side?"
+msgstr ""
+
+#: elementor/elementor-setup.php:142
+msgid "Add Margin to Left side Content"
+msgstr ""
+
+#: elementor/elementor-setup.php:153
+msgid "Add Margin to Right side Content"
+msgstr ""
+
+#: elementor/elementor-setup.php:164
+msgid "Background Color of Section"
+msgstr ""
+
+#: elementor/elementor-setup.php:170 elementor/elementor-setup.php:216
+msgid "Transparent"
+msgstr ""
+
+#: elementor/elementor-setup.php:171
+msgid "Light Color Background"
+msgstr ""
+
+#: elementor/elementor-setup.php:172 elementor/elementor-setup.php:218
+msgid "Dark Color Background"
+msgstr ""
+
+#: elementor/elementor-setup.php:173 elementor/elementor-setup.php:219
+msgid "Gray Color Background"
+msgstr ""
+
+#: elementor/elementor-setup.php:174 elementor/elementor-setup.php:220
+msgid "Theme Color Background"
+msgstr ""
+
+#: elementor/elementor-setup.php:181
+msgid "Text Color of Section"
+msgstr ""
+
+#: elementor/elementor-setup.php:186 elementor/elementor-setup.php:232
+#: elementor/widgets/button-widget.php:116
+#: elementor/widgets/call-to-action.php:263
+#: elementor/widgets/image-widget.php:170
+#: elementor/widgets/package-widget.php:390
+msgid "Default"
+msgstr ""
+
+#: elementor/elementor-setup.php:187
+msgid "Light Color Text"
+msgstr ""
+
+#: elementor/elementor-setup.php:188 elementor/elementor-setup.php:234
+msgid "Dark Color Text"
+msgstr ""
+
+#: elementor/elementor-setup.php:189 elementor/elementor-setup.php:235
+msgid "Theme Color Text"
+msgstr ""
+
+#: elementor/elementor-setup.php:210
+msgid "Background Color of Column"
+msgstr ""
+
+#: elementor/elementor-setup.php:217
+msgid "White Color Background"
+msgstr ""
+
+#: elementor/elementor-setup.php:227
+msgid "Text Color of Column"
+msgstr ""
+
+#: elementor/elementor-setup.php:233
+msgid "White Color Text"
+msgstr ""
+
+#: elementor/sections/about1-section.php:11
+msgid "Techlon About1 Section"
+msgstr ""
+
+#: elementor/sections/about1-section.php:26
+#: elementor/sections/about2-section.php:26
+msgid "Section  Image"
+msgstr ""
+
+#: elementor/sections/about1-section.php:32
+#: elementor/sections/about2-section.php:32
+#: elementor/sections/about3-section.php:154
+#: elementor/sections/whychoose-section.php:53
+msgid " Section Image1"
+msgstr ""
+
+#: elementor/sections/about1-section.php:41
+#: elementor/sections/about2-section.php:41
+#: elementor/sections/about3-section.php:163
+#: elementor/sections/about6-section.php:97
+#: elementor/sections/whychoose-section.php:62
+msgid " Section Image2"
+msgstr ""
+
+#: elementor/sections/about1-section.php:50
+msgid " Section Floting Image1"
+msgstr ""
+
+#: elementor/sections/about1-section.php:62
+msgid " Section Floting Image2"
+msgstr ""
+
+#: elementor/sections/about1-section.php:74
+#: elementor/sections/blog1-section.php:32
+#: elementor/sections/blog3-section.php:32
+#: elementor/sections/contact-section.php:32
+#: elementor/sections/contact2-section.php:32
+#: elementor/sections/cta-section.php:32 elementor/sections/cta2-section.php:41
+#: elementor/sections/cta5-section.php:41
+#: elementor/sections/pricing-section.php:32
+#: elementor/sections/step-section.php:41
+#: elementor/sections/team-section.php:32
+#: elementor/sections/testimonial-section.php:32
+#: elementor/sections/testimonial2-section.php:32
+#: elementor/sections/testimonial4-section.php:32
+msgid " Section Bg Image"
+msgstr ""
+
+#: elementor/sections/about1-section.php:85
+msgid "Video-Popup"
+msgstr ""
+
+#: elementor/sections/about1-section.php:91
+#: elementor/sections/about1-section.php:295
+#: elementor/sections/about6-section.php:90
+#: elementor/widgets/button-widget.php:42
+#: elementor/widgets/button-widget.php:49
+#: elementor/widgets/call-to-action.php:73
+#: elementor/widgets/client-carousel.php:41
+#: elementor/widgets/icon-box-widget.php:81
+#: elementor/widgets/package-widget.php:100
+#: elementor/widgets/service-icon-box.php:28
+#: elementor/widgets/service-icon-widget.php:46
+#: inc/widget-option/techlon-button-widget.php:15
+#: inc/widget-option/techlon-contact-widget.php:35
+#: inc/widget-option/techlon-contact-widget.php:62
+msgid "Link"
+msgstr ""
+
+#: elementor/sections/about1-section.php:93
+#: elementor/sections/about1-section.php:220
+#: elementor/sections/about1-section.php:297
+#: elementor/sections/about3-section.php:120
+#: elementor/sections/about3-section.php:135
+#: elementor/sections/about4-section.php:120
+#: elementor/sections/about5-section.php:95
+#: elementor/sections/about6-section.php:92
+#: elementor/sections/benefits-section.php:88
+#: elementor/sections/benefits2-section.php:55
+#: elementor/sections/benefits3-section.php:111
+#: elementor/sections/benefits4-section.php:88
+#: elementor/sections/blog1-section.php:77
+#: elementor/sections/blog1-section.php:104
+#: elementor/sections/blog1-section.php:118
+#: elementor/sections/blog1-section.php:132
+#: elementor/sections/blog2-section.php:83
+#: elementor/sections/blog2-section.php:110
+#: elementor/sections/blog2-section.php:135
+#: elementor/sections/blog2-section.php:162
+#: elementor/sections/blog2-section.php:176
+#: elementor/sections/blog3-section.php:80
+#: elementor/sections/blog3-section.php:107
+#: elementor/sections/blog3-section.php:121
+#: elementor/sections/blog3-section.php:135
+#: elementor/sections/contact2-section.php:202
+#: elementor/sections/cta-section.php:88 elementor/sections/cta2-section.php:83
+#: elementor/sections/cta4-section.php:56
+#: elementor/sections/cta5-section.php:83
+#: elementor/sections/cta6-section.php:56
+#: elementor/sections/cta7-section.php:84
+#: elementor/sections/pricing-section.php:76
+#: elementor/sections/pricing-section.php:179
+#: elementor/sections/pricing-section.php:226
+#: elementor/sections/process-section.php:76
+#: elementor/sections/process-section.php:99
+#: elementor/sections/project-section.php:84
+#: elementor/sections/project-section.php:97
+#: elementor/sections/project2-section.php:112
+#: elementor/sections/project2-section.php:119
+#: elementor/sections/project3-section.php:58
+#: elementor/sections/project3-section.php:99
+#: elementor/sections/project3-section.php:112
+#: elementor/sections/project4-section.php:60
+#: elementor/sections/project4-section.php:68
+#: elementor/sections/service-category2-section.php:60
+#: elementor/sections/service2-section.php:77
+#: elementor/sections/service2-section.php:107
+#: elementor/sections/service3-section.php:91
+#: elementor/sections/services1-section.php:91
+#: elementor/sections/slider1-section.php:75
+#: elementor/sections/slider2-section.php:59
+#: elementor/sections/slider2-section.php:130
+#: elementor/sections/slider2-section.php:143
+#: elementor/sections/slider2-section.php:156
+#: elementor/sections/slider2-section.php:169
+#: elementor/sections/slider3-section.php:67
+#: elementor/sections/step-section.php:80
+#: elementor/sections/step-section.php:112
+#: elementor/sections/step-section.php:144
+#: elementor/sections/team-section.php:85
+#: elementor/sections/team-section.php:105
+#: elementor/sections/team-section.php:118
+#: elementor/sections/team-section.php:131
+#: elementor/sections/team-section.php:144
+#: elementor/sections/team2-section.php:80
+#: elementor/sections/team2-section.php:101
+#: elementor/sections/team2-section.php:116
+#: elementor/sections/team2-section.php:131
+#: elementor/sections/team2-section.php:146
+#: elementor/sections/testimonial-section.php:77
+#: elementor/sections/testimonial4-section.php:86
+#: elementor/sections/whychoose-section.php:158
+#: elementor/widgets/button-widget.php:44
+#: elementor/widgets/client-carousel.php:43
+#: elementor/widgets/icon-box-widget.php:83
+#: elementor/widgets/package-widget.php:53
+#: elementor/widgets/service-icon-box.php:30
+#: elementor/widgets/service-icon-widget.php:48
+#: elementor/widgets/slider-widget.php:93
+#: elementor/widgets/slider-widget.php:147
+#: elementor/widgets/social-icon-widget.php:42
+#: elementor/widgets/video-widget.php:37
+#: elementor/widgets/work-process-widget.php:54
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/sections/about1-section.php:98
+#: elementor/widgets/video-widget.php:40
+msgid "Video Icon"
+msgstr ""
+
+#: elementor/sections/about1-section.php:107
+#: elementor/widgets/image-widget.php:334
+msgid "Caption Box"
+msgstr ""
+
+#: elementor/sections/about1-section.php:113
+#: elementor/sections/about2-section.php:50
+msgid " Text"
+msgstr ""
+
+#: elementor/sections/about1-section.php:115
+msgid " Years Experience"
+msgstr ""
+
+#: elementor/sections/about1-section.php:116
+#: elementor/sections/about1-section.php:139
+#: elementor/sections/about1-section.php:155
+#: elementor/sections/about1-section.php:173
+#: elementor/sections/about1-section.php:190
+#: elementor/sections/about1-section.php:213
+#: elementor/sections/about1-section.php:227
+#: elementor/sections/about1-section.php:267
+#: elementor/sections/about1-section.php:275
+#: elementor/sections/about2-section.php:53
+#: elementor/sections/about2-section.php:61
+#: elementor/sections/about2-section.php:70
+#: elementor/sections/about2-section.php:78
+#: elementor/sections/about2-section.php:107
+#: elementor/sections/about2-section.php:121
+#: elementor/sections/about2-section.php:135
+#: elementor/sections/about3-section.php:35
+#: elementor/sections/about3-section.php:43
+#: elementor/sections/about3-section.php:53
+#: elementor/sections/about3-section.php:83
+#: elementor/sections/about3-section.php:113
+#: elementor/sections/about3-section.php:128
+#: elementor/sections/about3-section.php:195
+#: elementor/sections/about4-section.php:62
+#: elementor/sections/about4-section.php:70
+#: elementor/sections/about4-section.php:80
+#: elementor/sections/about4-section.php:97
+#: elementor/sections/about4-section.php:105
+#: elementor/sections/about4-section.php:113
+#: elementor/sections/about5-section.php:62
+#: elementor/sections/about5-section.php:70
+#: elementor/sections/about5-section.php:80
+#: elementor/sections/about5-section.php:88
+#: elementor/sections/about5-section.php:117
+#: elementor/sections/about6-section.php:44
+#: elementor/sections/about6-section.php:52
+#: elementor/sections/about6-section.php:62
+#: elementor/sections/about6-section.php:70
+#: elementor/sections/about6-section.php:78
+#: elementor/sections/about6-section.php:109
+#: elementor/sections/benefits-section.php:81
+#: elementor/sections/benefits-section.php:96
+#: elementor/sections/benefits2-section.php:48
+#: elementor/sections/benefits2-section.php:63
+#: elementor/sections/benefits4-section.php:81
+#: elementor/sections/benefits4-section.php:96
+#: elementor/sections/blog1-section.php:44
+#: elementor/sections/blog1-section.php:52
+#: elementor/sections/blog1-section.php:84
+#: elementor/sections/blog1-section.php:97
+#: elementor/sections/blog1-section.php:111
+#: elementor/sections/blog1-section.php:125
+#: elementor/sections/blog2-section.php:35
+#: elementor/sections/blog2-section.php:43
+#: elementor/sections/blog2-section.php:52
+#: elementor/sections/blog2-section.php:76
+#: elementor/sections/blog2-section.php:96
+#: elementor/sections/blog2-section.php:103
+#: elementor/sections/blog2-section.php:148
+#: elementor/sections/blog2-section.php:155
+#: elementor/sections/blog2-section.php:169
+#: elementor/sections/blog3-section.php:47
+#: elementor/sections/blog3-section.php:55
+#: elementor/sections/blog3-section.php:93
+#: elementor/sections/blog3-section.php:100
+#: elementor/sections/blog3-section.php:114
+#: elementor/sections/blog3-section.php:128
+#: elementor/sections/contact-section.php:44
+#: elementor/sections/contact-section.php:52
+#: elementor/sections/contact2-section.php:44
+#: elementor/sections/contact2-section.php:52
+#: elementor/sections/contact2-section.php:68
+#: elementor/sections/contact2-section.php:76
+#: elementor/sections/contact2-section.php:92
+#: elementor/sections/contact2-section.php:100
+#: elementor/sections/contact2-section.php:108
+#: elementor/sections/contact2-section.php:116
+#: elementor/sections/contact2-section.php:130
+#: elementor/sections/contact2-section.php:152
+#: elementor/sections/contact2-section.php:160
+#: elementor/sections/contact2-section.php:174
+#: elementor/sections/cta-section.php:65 elementor/sections/cta-section.php:73
+#: elementor/sections/cta-section.php:81 elementor/sections/cta2-section.php:68
+#: elementor/sections/cta2-section.php:76
+#: elementor/sections/cta3-section.php:51
+#: elementor/sections/cta3-section.php:59
+#: elementor/sections/cta4-section.php:41
+#: elementor/sections/cta4-section.php:49
+#: elementor/sections/cta5-section.php:68
+#: elementor/sections/cta5-section.php:76
+#: elementor/sections/cta6-section.php:41
+#: elementor/sections/cta6-section.php:49
+#: elementor/sections/cta7-section.php:61
+#: elementor/sections/cta7-section.php:69
+#: elementor/sections/cta7-section.php:77
+#: elementor/sections/pricing-section.php:44
+#: elementor/sections/pricing-section.php:52
+#: elementor/sections/pricing-section.php:61
+#: elementor/sections/pricing-section.php:69
+#: elementor/sections/pricing-section.php:92
+#: elementor/sections/pricing-section.php:100
+#: elementor/sections/pricing-section.php:108
+#: elementor/sections/pricing-section.php:116
+#: elementor/sections/pricing-section.php:124
+#: elementor/sections/pricing-section.php:132
+#: elementor/sections/pricing-section.php:148
+#: elementor/sections/pricing-section.php:156
+#: elementor/sections/pricing-section.php:164
+#: elementor/sections/pricing-section.php:172
+#: elementor/sections/pricing-section.php:195
+#: elementor/sections/pricing-section.php:203
+#: elementor/sections/pricing-section.php:211
+#: elementor/sections/pricing-section.php:219
+#: elementor/sections/pricing-section.php:249
+#: elementor/sections/pricing-section.php:286
+#: elementor/sections/process-section.php:44
+#: elementor/sections/process-section.php:52
+#: elementor/sections/process-section.php:69
+#: elementor/sections/process-section.php:84
+#: elementor/sections/process-section.php:92
+#: elementor/sections/project-section.php:35
+#: elementor/sections/project-section.php:43
+#: elementor/sections/project2-section.php:35
+#: elementor/sections/project2-section.php:43
+#: elementor/sections/project3-section.php:35
+#: elementor/sections/project3-section.php:43
+#: elementor/sections/project3-section.php:51
+#: elementor/sections/project3-section.php:84
+#: elementor/sections/project3-section.php:92
+#: elementor/sections/project4-section.php:45
+#: elementor/sections/project4-section.php:53
+#: elementor/sections/service-category.php:45
+#: elementor/sections/service-category.php:53
+#: elementor/sections/service-category.php:63
+#: elementor/sections/service-category2-section.php:45
+#: elementor/sections/service-category2-section.php:53
+#: elementor/sections/service-category2-section.php:69
+#: elementor/sections/service2-section.php:100
+#: elementor/sections/step-section.php:73
+#: elementor/sections/step-section.php:105
+#: elementor/sections/step-section.php:137
+#: elementor/sections/team-section.php:44
+#: elementor/sections/team-section.php:52
+#: elementor/sections/team-section.php:78
+#: elementor/sections/team-section.php:92
+#: elementor/sections/team2-section.php:38
+#: elementor/sections/team2-section.php:46
+#: elementor/sections/team2-section.php:73
+#: elementor/sections/team2-section.php:87
+#: elementor/sections/testimonial-section.php:44
+#: elementor/sections/testimonial-section.php:52
+#: elementor/sections/testimonial-section.php:62
+#: elementor/sections/testimonial-section.php:70
+#: elementor/sections/testimonial-section.php:143
+#: elementor/sections/testimonial-section.php:151
+#: elementor/sections/testimonial-section.php:159
+#: elementor/sections/testimonial2-section.php:44
+#: elementor/sections/testimonial2-section.php:52
+#: elementor/sections/testimonial2-section.php:94
+#: elementor/sections/testimonial2-section.php:102
+#: elementor/sections/testimonial2-section.php:110
+#: elementor/sections/testimonial3-section.php:44
+#: elementor/sections/testimonial3-section.php:52
+#: elementor/sections/testimonial4-section.php:44
+#: elementor/sections/testimonial4-section.php:52
+#: elementor/sections/testimonial4-section.php:62
+#: elementor/sections/testimonial4-section.php:71
+#: elementor/sections/testimonial4-section.php:79
+#: elementor/sections/testimonial4-section.php:115
+#: elementor/sections/testimonial4-section.php:123
+#: elementor/sections/testimonial4-section.php:131
+#: elementor/sections/testimonial5-section.php:44
+#: elementor/sections/testimonial5-section.php:52
+#: elementor/sections/whychoose-section.php:74
+#: elementor/sections/whychoose-section.php:82
+#: elementor/sections/whychoose-section.php:91
+#: elementor/sections/whychoose-section.php:108
+#: elementor/sections/whychoose-section.php:151
+#: elementor/sections/whychoose-section.php:166
+#: elementor/widgets/service-details.php:40
+msgid "Type your Text Here"
+msgstr ""
+
+#: elementor/sections/about1-section.php:121
+#: elementor/sections/about6-section.php:114
+msgid "Count Data"
+msgstr ""
+
+#: elementor/sections/about1-section.php:123
+#: elementor/widgets/image-widget.php:83
+msgid "25"
+msgstr ""
+
+#: elementor/sections/about1-section.php:130
+#: elementor/sections/contact-section.php:41
+#: elementor/sections/contact2-section.php:41
+#: elementor/sections/cta-section.php:62 elementor/sections/cta3-section.php:56
+#: elementor/sections/cta7-section.php:58
+#: elementor/sections/process-section.php:41
+#: elementor/sections/project-section.php:32
+#: elementor/sections/project2-section.php:32
+#: elementor/sections/project4-section.php:42
+#: elementor/sections/service-category.php:59
+#: elementor/sections/service-category2-section.php:65
+#: elementor/sections/testimonial-section.php:137
+#: elementor/sections/testimonial4-section.php:109
+#: elementor/sections/whychoose-section.php:71
+msgid " Section Text"
+msgstr ""
+
+#: elementor/sections/about1-section.php:136
+#: elementor/sections/about1-section.php:224
+#: elementor/sections/about3-section.php:32
+#: elementor/sections/about3-section.php:80
+#: elementor/sections/about4-section.php:59
+#: elementor/sections/about5-section.php:59
+#: elementor/sections/about6-section.php:41
+#: elementor/sections/benefits-section.php:41
+#: elementor/sections/benefits3-section.php:59
+#: elementor/sections/benefits4-section.php:41
+#: elementor/sections/blog1-section.php:41
+#: elementor/sections/blog2-section.php:32
+#: elementor/sections/blog3-section.php:44
+#: elementor/sections/counter-section.php:39
+#: elementor/sections/pricing-section.php:41
+#: elementor/sections/project3-section.php:32
+#: elementor/sections/project3-section.php:81
+#: elementor/sections/service2-section.php:41
+#: elementor/sections/service3-section.php:41
+#: elementor/sections/services1-section.php:41
+#: elementor/sections/slider1-section.php:50
+#: elementor/sections/slider3-section.php:42
+#: elementor/sections/team-section.php:41
+#: elementor/sections/team2-section.php:35
+#: elementor/sections/testimonial-section.php:41
+#: elementor/sections/testimonial2-section.php:41
+#: elementor/sections/testimonial3-section.php:41
+#: elementor/sections/testimonial4-section.php:41
+#: elementor/sections/testimonial5-section.php:41
+msgid "Section Text"
+msgstr ""
+
+#: elementor/sections/about1-section.php:138
+#: elementor/sections/about4-section.php:61
+#: elementor/sections/about5-section.php:61
+msgid "About Company"
+msgstr ""
+
+#: elementor/sections/about1-section.php:146
+#: elementor/sections/contact-section.php:49
+#: elementor/sections/contact2-section.php:49
+#: elementor/sections/cta-section.php:70 elementor/sections/cta2-section.php:65
+#: elementor/sections/cta3-section.php:48
+#: elementor/sections/cta4-section.php:38
+#: elementor/sections/cta5-section.php:65
+#: elementor/sections/cta6-section.php:38
+#: elementor/sections/cta7-section.php:66
+#: elementor/sections/process-section.php:49
+#: elementor/sections/project-section.php:40
+#: elementor/sections/project2-section.php:40
+#: elementor/sections/project4-section.php:50
+#: elementor/sections/service-category.php:50
+#: elementor/sections/service-category2-section.php:50
+#: elementor/sections/service2-section.php:97
+#: elementor/sections/team-section.php:75
+#: elementor/sections/team2-section.php:70
+#: elementor/sections/testimonial-section.php:148
+#: elementor/sections/testimonial4-section.php:120
+#: elementor/sections/whychoose-section.php:79
+msgid " Section Title"
+msgstr ""
+
+#: elementor/sections/about1-section.php:152
+#: elementor/sections/about1-section.php:210
+#: elementor/sections/about3-section.php:40
+#: elementor/sections/about4-section.php:67
+#: elementor/sections/about5-section.php:67
+#: elementor/sections/about6-section.php:49
+#: elementor/sections/benefits-section.php:49
+#: elementor/sections/benefits3-section.php:67
+#: elementor/sections/benefits4-section.php:49
+#: elementor/sections/blog1-section.php:49
+#: elementor/sections/blog2-section.php:40
+#: elementor/sections/blog3-section.php:52
+#: elementor/sections/pricing-section.php:49
+#: elementor/sections/project2-section.php:102
+#: elementor/sections/project3-section.php:40
+#: elementor/sections/project3-section.php:89
+#: elementor/sections/service2-section.php:49
+#: elementor/sections/service3-section.php:49
+#: elementor/sections/services1-section.php:49
+#: elementor/sections/slider1-section.php:58
+#: elementor/sections/slider2-section.php:42
+#: elementor/sections/slider3-section.php:50
+#: elementor/sections/step-section.php:70
+#: elementor/sections/step-section.php:102
+#: elementor/sections/step-section.php:134
+#: elementor/sections/team-section.php:49
+#: elementor/sections/team2-section.php:43
+#: elementor/sections/testimonial-section.php:49
+#: elementor/sections/testimonial2-section.php:49
+#: elementor/sections/testimonial3-section.php:49
+#: elementor/sections/testimonial4-section.php:49
+#: elementor/sections/testimonial5-section.php:49
+msgid "Section Title"
+msgstr ""
+
+#: elementor/sections/about1-section.php:154
+#: elementor/sections/about4-section.php:69
+msgid "The World’s Networking Company"
+msgstr ""
+
+#: elementor/sections/about1-section.php:162
+msgid " Section Para1"
+msgstr ""
+
+#: elementor/sections/about1-section.php:168
+msgid "Section Para1"
+msgstr ""
+
+#: elementor/sections/about1-section.php:170
+msgid ""
+"Since from 2000 Building Your Better IT Solution The\n"
+"definition of business is an occupation or trade & the purchase and sale of "
+"products Our\n"
+"Mission & Vision Voice and Data System are crucial to the success"
+msgstr ""
+
+#: elementor/sections/about1-section.php:180
+msgid " Section Para2"
+msgstr ""
+
+#: elementor/sections/about1-section.php:186
+msgid "Section Para2"
+msgstr ""
+
+#: elementor/sections/about1-section.php:188
+msgid ""
+"System is a term used to refer to an organized collection\n"
+"symbols and processes that may be used to operate on such symbols."
+msgstr ""
+
+#: elementor/sections/about1-section.php:197
+msgid " Section Item Box"
+msgstr ""
+
+#: elementor/sections/about1-section.php:204
+#: elementor/sections/about3-section.php:67
+#: elementor/sections/cta3-section.php:42
+#: elementor/sections/cta4-section.php:32
+#: elementor/sections/cta6-section.php:32
+#: elementor/sections/project3-section.php:104
+msgid "Section Icon"
+msgstr ""
+
+#: elementor/sections/about1-section.php:212
+#: elementor/sections/about1-section.php:239
+msgid "IT Specialist"
+msgstr ""
+
+#: elementor/sections/about1-section.php:218
+#: elementor/sections/project3-section.php:97
+#: elementor/sections/service-category2-section.php:58
+#: elementor/sections/service2-section.php:105
+#: elementor/sections/step-section.php:78
+#: elementor/sections/step-section.php:110
+#: elementor/sections/step-section.php:142
+msgid "Section Title Link"
+msgstr ""
+
+#: elementor/sections/about1-section.php:226
+#: elementor/sections/about1-section.php:238
+#: elementor/widgets/icon-box-widget.php:57
+msgid "Smarter Solutions"
+msgstr ""
+
+#: elementor/sections/about1-section.php:233
+msgid "About1 Icon Box"
+msgstr ""
+
+#: elementor/sections/about1-section.php:249
+msgid "Author Meta"
+msgstr ""
+
+#: elementor/sections/about1-section.php:255
+#: elementor/sections/about4-section.php:85
+msgid "Author Image"
+msgstr ""
+
+#: elementor/sections/about1-section.php:264
+#: elementor/sections/about4-section.php:94
+msgid "Author Title"
+msgstr ""
+
+#: elementor/sections/about1-section.php:266
+#: elementor/sections/about4-section.php:96
+#: elementor/widgets/author-meta.php:37
+msgid "Michele Morrone"
+msgstr ""
+
+#: elementor/sections/about1-section.php:272
+#: elementor/sections/about4-section.php:102
+#: elementor/widgets/author-meta.php:42
+msgid "Author Designation"
+msgstr ""
+
+#: elementor/sections/about1-section.php:274
+#: elementor/sections/about4-section.php:104
+#: elementor/widgets/author-meta.php:44
+msgid "Founder CEO"
+msgstr ""
+
+#: elementor/sections/about1-section.php:282
+#: elementor/sections/about4-section.php:110
+#: elementor/sections/about5-section.php:85
+#: elementor/sections/service2-section.php:67
+#: elementor/sections/slider1-section.php:66
+#: elementor/sections/slider2-section.php:50
+#: elementor/sections/slider3-section.php:58
+msgid "Section Button"
+msgstr ""
+
+#: elementor/sections/about1-section.php:288
+#: elementor/sections/about6-section.php:83
+msgid "Button"
+msgstr ""
+
+#: elementor/sections/about1-section.php:290
+#: elementor/sections/about4-section.php:112
+#: elementor/sections/about5-section.php:87
+#: elementor/sections/about6-section.php:85
+#: elementor/sections/benefits3-section.php:103
+#: elementor/sections/cta4-section.php:48
+#: elementor/sections/cta6-section.php:48
+#: elementor/sections/pricing-section.php:68
+#: elementor/sections/service2-section.php:69
+#: elementor/sections/slider1-section.php:68
+#: elementor/sections/slider2-section.php:52
+#: elementor/sections/slider3-section.php:60
+#: elementor/widgets/button-widget.php:37
+#: elementor/widgets/call-to-action.php:70
+#: elementor/widgets/slider-widget.php:100
+msgid "Learn More"
+msgstr ""
+
+#: elementor/sections/about2-section.php:11
+msgid "Techlon About2 Section"
+msgstr ""
+
+#: elementor/sections/about2-section.php:52
+msgid " Welcome to tech"
+msgstr ""
+
+#: elementor/sections/about2-section.php:58
+#: elementor/widgets/accordian-widget.php:24
+#: elementor/widgets/accordian-widget.php:90
+#: elementor/widgets/blog-widget.php:225
+#: elementor/widgets/call-to-action.php:32
+#: elementor/widgets/call-to-action.php:160
+#: elementor/widgets/counter-box.php:20
+#: elementor/widgets/icon-box-widget.php:45
+#: elementor/widgets/icon-box-widget.php:212
+#: elementor/widgets/info-widget.php:34 elementor/widgets/info-widget.php:103
+#: elementor/widgets/package-widget.php:23
+#: elementor/widgets/package-widget.php:146
+#: elementor/widgets/progress-bar-widget.php:31
+#: elementor/widgets/project-widget.php:155
+#: elementor/widgets/service-details.php:38
+#: elementor/widgets/service-icon-box.php:23
+#: elementor/widgets/service-icon-widget.php:41
+#: elementor/widgets/service-widget.php:248
+#: elementor/widgets/slider-widget.php:20
+#: elementor/widgets/slider-widget.php:37
+#: elementor/widgets/slider-widget.php:285
+#: elementor/widgets/team-widget.php:197 elementor/widgets/title-widget.php:28
+#: elementor/widgets/work-process-widget.php:28
+#: elementor/widgets/work-process-widget.php:162
+#: inc/widget-option/techlon-about-widget.php:9
+#: inc/widget-option/techlon-contact-widget.php:10
+#: inc/widget-option/techlon-cta-widget.php:15
+#: inc/widget-option/techlon-footer-services-widget.php:10
+#: inc/widget-option/techlon-menu-widget.php:10
+#: inc/widget-option/techlon-service-recent-post-widget.php:10
+#: inc/widget-option/techlon_recent_post_widget.php:9
+msgid "Title"
+msgstr ""
+
+#: elementor/sections/about2-section.php:60
+msgid "Incredible IT Service Infrastructure"
+msgstr ""
+
+#: elementor/sections/about2-section.php:66
+msgid "Paragraph"
+msgstr ""
+
+#: elementor/sections/about2-section.php:68
+msgid ""
+"Choose our services to have custom software solutions for\n"
+"                                          your business with the most "
+"reasonable price."
+msgstr ""
+
+#: elementor/sections/about2-section.php:75
+#: elementor/widgets/call-to-action.php:38
+#: elementor/widgets/call-to-action.php:196
+#: elementor/widgets/slider-widget.php:45
+#: elementor/widgets/slider-widget.php:327
+#: elementor/widgets/title-widget.php:37
+msgid "Tagline"
+msgstr ""
+
+#: elementor/sections/about2-section.php:77
+msgid " Get Your IT Technology Solutions  in Few Easy Clicks"
+msgstr ""
+
+#: elementor/sections/about2-section.php:83
+#: elementor/sections/service3-section.php:75
+msgid " List Icon"
+msgstr ""
+
+#: elementor/sections/about2-section.php:91
+msgid "About2 List"
+msgstr ""
+
+#: elementor/sections/about2-section.php:98
+msgid " Section Icon1"
+msgstr ""
+
+#: elementor/sections/about2-section.php:104
+msgid " Section Title1"
+msgstr ""
+
+#: elementor/sections/about2-section.php:106
+msgid " The business applications"
+msgstr ""
+
+#: elementor/sections/about2-section.php:112
+msgid " Section Icon2"
+msgstr ""
+
+#: elementor/sections/about2-section.php:118
+msgid " Section Title2"
+msgstr ""
+
+#: elementor/sections/about2-section.php:120
+msgid "Revolutionary catalysts chang"
+msgstr ""
+
+#: elementor/sections/about2-section.php:126
+msgid " Section Icon3"
+msgstr ""
+
+#: elementor/sections/about2-section.php:132
+msgid " Section Title3"
+msgstr ""
+
+#: elementor/sections/about2-section.php:134
+msgid "Catalysts for chang seamlessly"
+msgstr ""
+
+#: elementor/sections/about2-section.php:141
+msgid "About2 List "
+msgstr ""
+
+#: elementor/sections/about2-section.php:146
+msgid "The business applications"
+msgstr ""
+
+#: elementor/sections/about3-section.php:11
+msgid "Techlon About3 Section"
+msgstr ""
+
+#: elementor/sections/about3-section.php:26
+msgid "About3  Section"
+msgstr ""
+
+#: elementor/sections/about3-section.php:34
+msgid "Welcome to tech"
+msgstr ""
+
+#: elementor/sections/about3-section.php:42
+msgid "Best Talent, Competitive Cast, Incredible IT Service Infrastructure"
+msgstr ""
+
+#: elementor/sections/about3-section.php:48
+#: elementor/sections/about4-section.php:75
+#: elementor/sections/about5-section.php:75
+#: elementor/sections/about6-section.php:57
+#: elementor/sections/benefits3-section.php:75
+#: elementor/sections/blog2-section.php:48
+#: elementor/sections/pricing-section.php:57
+#: elementor/sections/service2-section.php:57
+#: elementor/sections/service3-section.php:57
+#: elementor/sections/services1-section.php:57
+#: elementor/sections/testimonial-section.php:57
+#: elementor/sections/testimonial4-section.php:57
+msgid "Section Para"
+msgstr ""
+
+#: elementor/sections/about3-section.php:50
+#: elementor/sections/about6-section.php:59
+msgid ""
+"System is a term used to refer to an organized collection\n"
+"                                         symbols and processes that may be "
+"used to operate on such symbols. Perspiciatis unde\n"
+"                                         omnis natus error voluptatems "
+"accusa."
+msgstr ""
+
+#: elementor/sections/about3-section.php:60
+msgid " List Item"
+msgstr ""
+
+#: elementor/sections/about3-section.php:73
+#: elementor/sections/counter-section.php:47
+msgid "Section Number"
+msgstr ""
+
+#: elementor/sections/about3-section.php:75
+msgid " 769"
+msgstr ""
+
+#: elementor/sections/about3-section.php:82
+#: elementor/widgets/counter-box.php:81
+msgid "Satisfied Clients"
+msgstr ""
+
+#: elementor/sections/about3-section.php:89
+msgid "List Section"
+msgstr ""
+
+#: elementor/sections/about3-section.php:94
+msgid " Satisfied Clients"
+msgstr ""
+
+#: elementor/sections/about3-section.php:104
+#: elementor/sections/cta-section.php:78 elementor/sections/cta2-section.php:73
+#: elementor/sections/cta4-section.php:46
+#: elementor/sections/cta5-section.php:73
+#: elementor/sections/cta6-section.php:46
+#: elementor/sections/cta7-section.php:74
+#: elementor/sections/testimonial-section.php:67
+#: elementor/sections/testimonial4-section.php:76
+msgid " Section Button"
+msgstr ""
+
+#: elementor/sections/about3-section.php:110
+#: elementor/sections/pricing-section.php:66
+msgid " Button Text"
+msgstr ""
+
+#: elementor/sections/about3-section.php:112
+msgid "learn more"
+msgstr ""
+
+#: elementor/sections/about3-section.php:118
+#: elementor/sections/about4-section.php:118
+#: elementor/sections/about5-section.php:93
+#: elementor/sections/benefits3-section.php:109
+#: elementor/sections/pricing-section.php:74
+#: elementor/sections/project3-section.php:56
+#: elementor/widgets/package-widget.php:51
+#: elementor/widgets/slider-widget.php:91
+msgid "Button Link"
+msgstr ""
+
+#: elementor/sections/about3-section.php:125
+msgid " Button2 Text"
+msgstr ""
+
+#: elementor/sections/about3-section.php:127
+msgid "How it Work"
+msgstr ""
+
+#: elementor/sections/about3-section.php:133
+msgid "Button2 Link"
+msgstr ""
+
+#: elementor/sections/about3-section.php:140
+msgid "Button2 Icon"
+msgstr ""
+
+#: elementor/sections/about3-section.php:148
+msgid "About3 Image"
+msgstr ""
+
+#: elementor/sections/about3-section.php:172
+msgid " Floting Image2"
+msgstr ""
+
+#: elementor/sections/about3-section.php:186
+msgid "About3 Caption Box"
+msgstr ""
+
+#: elementor/sections/about3-section.php:192
+msgid "Caption Box Text"
+msgstr ""
+
+#: elementor/sections/about3-section.php:194
+msgid "Years Experience"
+msgstr ""
+
+#: elementor/sections/about3-section.php:200
+msgid "Caption Box  Number"
+msgstr ""
+
+#: elementor/sections/about3-section.php:202
+msgid " 26"
+msgstr ""
+
+#: elementor/sections/about4-section.php:11
+msgid "Techlon About4 Section"
+msgstr ""
+
+#: elementor/sections/about4-section.php:26
+msgid "About4 Section"
+msgstr ""
+
+#: elementor/sections/about4-section.php:32
+#: elementor/sections/about5-section.php:32
+msgid "Shape1 Image"
+msgstr ""
+
+#: elementor/sections/about4-section.php:41
+#: elementor/sections/about5-section.php:41
+msgid "Shape2 Image"
+msgstr ""
+
+#: elementor/sections/about4-section.php:50
+#: elementor/sections/about5-section.php:50
+#: elementor/sections/brand-section.php:33
+#: elementor/sections/brand2-section.php:33
+#: elementor/sections/brand3-section.php:33
+#: elementor/sections/project3-section.php:72
+#: elementor/sections/project4-section.php:33
+#: elementor/sections/service-category.php:33
+#: elementor/sections/service-category2-section.php:33
+#: elementor/sections/step-section.php:61
+#: elementor/sections/step-section.php:93
+#: elementor/sections/step-section.php:125
+msgid "Section Image"
+msgstr ""
+
+#: elementor/sections/about4-section.php:77
+msgid ""
+"Since from 2000 Building Your Better IT Solution The\n"
+"                                definition of business is an occupation or "
+"trade & the purchase and sale of products Our\n"
+"                                Mission & Vision Voice and Data System are "
+"crucial to the success."
+msgstr ""
+
+#: elementor/sections/about5-section.php:11
+msgid "Techlon About5 Section"
+msgstr ""
+
+#: elementor/sections/about5-section.php:26
+msgid "About5 Section"
+msgstr ""
+
+#: elementor/sections/about5-section.php:69
+msgid "Experts of Sofware and Technology"
+msgstr ""
+
+#: elementor/sections/about5-section.php:77
+msgid ""
+"  There are many variations of passages of Lorem Ipsum available, but the "
+"majority have\n"
+"                                           suffered alteration in some form "
+"injected humour, or randomised words which don't look\n"
+"                                           even."
+msgstr ""
+
+#: elementor/sections/about5-section.php:101
+msgid "About5 List"
+msgstr ""
+
+#: elementor/sections/about5-section.php:108
+#: elementor/sections/testimonial-section.php:91
+msgid "List Icon"
+msgstr ""
+
+#: elementor/sections/about5-section.php:114
+#: elementor/sections/service3-section.php:81
+msgid "List Title"
+msgstr ""
+
+#: elementor/sections/about5-section.php:116
+msgid "   Refresing to get such a personal touch."
+msgstr ""
+
+#: elementor/sections/about5-section.php:123
+msgid "About5 List "
+msgstr ""
+
+#: elementor/sections/about5-section.php:128
+msgid " Refresing to get such a personal touch."
+msgstr ""
+
+#: elementor/sections/about6-section.php:11
+msgid "Techlon About6 Section"
+msgstr ""
+
+#: elementor/sections/about6-section.php:26
+msgid "About6 Section"
+msgstr ""
+
+#: elementor/sections/about6-section.php:32
+msgid "Floting Image"
+msgstr ""
+
+#: elementor/sections/about6-section.php:43
+#: elementor/sections/service2-section.php:43
+msgid "HOW CAN HELP YOU"
+msgstr ""
+
+#: elementor/sections/about6-section.php:51
+msgid "Business Solutions to  Growth Business"
+msgstr ""
+
+#: elementor/sections/about6-section.php:67
+msgid "list1 Text"
+msgstr ""
+
+#: elementor/sections/about6-section.php:69
+msgid " Going Above and Beyond"
+msgstr ""
+
+#: elementor/sections/about6-section.php:75
+msgid "list2 Text"
+msgstr ""
+
+#: elementor/sections/about6-section.php:77
+msgid "Committed to People First"
+msgstr ""
+
+#: elementor/sections/about6-section.php:106
+msgid " Caption Text"
+msgstr ""
+
+#: elementor/sections/about6-section.php:108
+msgid "  Years Experience"
+msgstr ""
+
+#: elementor/sections/about6-section.php:116
+msgid "26"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:11
+msgid "Techlon Benefits Section"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:26
+#: elementor/sections/benefits4-section.php:26
+msgid "Benefits Section"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:32
+#: elementor/sections/benefits4-section.php:32
+#: elementor/sections/service2-section.php:32
+#: elementor/sections/service3-section.php:32
+#: elementor/sections/services1-section.php:32
+#: elementor/sections/slider1-section.php:33
+#: elementor/sections/slider2-section.php:33
+#: elementor/sections/slider3-section.php:33
+msgid "Section Bg Image"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:43
+#: elementor/sections/benefits3-section.php:61
+#: elementor/sections/benefits4-section.php:43
+#: elementor/sections/whychoose-section.php:73
+msgid "Company Benefits"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:44
+#: elementor/sections/benefits-section.php:52
+#: elementor/sections/benefits3-section.php:62
+#: elementor/sections/benefits3-section.php:70
+#: elementor/sections/benefits3-section.php:80
+#: elementor/sections/benefits3-section.php:88
+#: elementor/sections/benefits3-section.php:96
+#: elementor/sections/benefits3-section.php:104
+#: elementor/sections/benefits4-section.php:44
+#: elementor/sections/benefits4-section.php:52
+#: elementor/sections/service2-section.php:44
+#: elementor/sections/service2-section.php:52
+#: elementor/sections/service2-section.php:62
+#: elementor/sections/service2-section.php:70
+#: elementor/sections/service3-section.php:44
+#: elementor/sections/service3-section.php:52
+#: elementor/sections/service3-section.php:61
+#: elementor/sections/service3-section.php:84
+#: elementor/sections/services1-section.php:44
+#: elementor/sections/services1-section.php:52
+#: elementor/sections/services1-section.php:61
+#: elementor/sections/slider1-section.php:45
+msgid "Type your Texthere"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:51
+#: elementor/sections/benefits4-section.php:51
+msgid "We Provide Best IT Solutions For Business 25 Years We Provide Solutions"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:59
+#: elementor/sections/benefits4-section.php:59
+msgid "Benefits Section Card"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:66
+#: elementor/sections/benefits2-section.php:33
+#: elementor/sections/benefits4-section.php:66
+msgid "Card Bg Image"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:78
+#: elementor/sections/benefits2-section.php:45
+#: elementor/sections/benefits4-section.php:78
+#: elementor/sections/process-section.php:66
+msgid " Card Title"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:80
+#: elementor/sections/benefits-section.php:114
+#: elementor/sections/benefits2-section.php:47
+#: elementor/sections/benefits2-section.php:81
+#: elementor/sections/benefits4-section.php:80
+#: elementor/sections/benefits4-section.php:114
+msgid "Quality Service"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:86
+#: elementor/sections/benefits2-section.php:53
+#: elementor/sections/benefits4-section.php:86
+#: elementor/sections/process-section.php:74
+#: elementor/sections/project-section.php:82
+#: elementor/sections/services1-section.php:89
+msgid "Card Title Link"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:93
+#: elementor/sections/benefits2-section.php:60
+#: elementor/sections/benefits4-section.php:93
+#: elementor/sections/process-section.php:81
+msgid " Card Text"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:95
+#: elementor/sections/benefits-section.php:113
+#: elementor/sections/benefits2-section.php:62
+#: elementor/sections/benefits2-section.php:80
+#: elementor/sections/benefits4-section.php:95
+#: elementor/sections/benefits4-section.php:113
+#: elementor/widgets/service-icon-box.php:38
+msgid "Sed perspe unde omnis natus sit voluptatem acc doloremue"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:101
+#: elementor/sections/benefits2-section.php:68
+#: elementor/sections/benefits4-section.php:101
+msgid " Card Icon"
+msgstr ""
+
+#: elementor/sections/benefits-section.php:108
+#: elementor/sections/benefits4-section.php:108
+msgid "Benefits Card "
+msgstr ""
+
+#: elementor/sections/benefits2-section.php:11
+msgid "Techlon Benefits2 Section"
+msgstr ""
+
+#: elementor/sections/benefits2-section.php:26
+msgid "Benefits2 Section Card"
+msgstr ""
+
+#: elementor/sections/benefits2-section.php:75
+msgid "Benefits2 Card "
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:11
+msgid "Techlon Benefits3 Section"
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:26
+msgid "Benefits3 Section"
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:32
+msgid "Image1"
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:41
+msgid "Image2"
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:50
+msgid "Image3"
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:69
+msgid " Incredible IT Service Infrastructure"
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:77
+msgid ""
+" There are many variations of passages of available but the\n"
+"                                          majority have suffered. Alteration "
+"in some form, lipsum is simply free text by injected\n"
+"                                          humou or randomised words even "
+"believable."
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:85
+msgid "Section List1"
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:87
+msgid "   Going Above and  Beyond"
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:93
+msgid "Section List2"
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:95
+msgid "   Committed to People First"
+msgstr ""
+
+#: elementor/sections/benefits3-section.php:101
+msgid "Secrion Button "
+msgstr ""
+
+#: elementor/sections/benefits4-section.php:11
+msgid "Techlon Benefits4 Section"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:11
+msgid "Techlon Blog1 Section"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:26
+#: elementor/sections/blog1-section.php:144
+msgid "Blog1 Section"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:43
+#: elementor/sections/blog2-section.php:34
+#: elementor/sections/blog3-section.php:46
+msgid "Direct from the Blog Posts"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:51
+msgid "Checkout Our Latest  News & Articles"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:59
+msgid "Blog1 Section Card"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:66
+msgid "Blog Image"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:75
+msgid " Blog Image Link"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:82
+#: elementor/sections/blog2-section.php:94
+msgid " Blog Date"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:83
+#: elementor/sections/blog2-section.php:95
+#: elementor/sections/blog2-section.php:147
+#: elementor/sections/blog3-section.php:92
+msgid " July, 25, 2022"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:89
+msgid "Blog Date Icon"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:95
+msgid " Blog Category"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:96
+#: elementor/sections/blog1-section.php:150
+#: elementor/sections/blog2-section.php:75
+#: elementor/sections/blog2-section.php:154
+#: elementor/sections/blog2-section.php:188
+#: elementor/sections/blog3-section.php:99
+#: elementor/sections/blog3-section.php:153
+#: elementor/sections/team-section.php:91
+#: elementor/sections/team-section.php:155
+#: elementor/sections/team2-section.php:86
+#: elementor/sections/team2-section.php:158
+msgid "Designer"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:102
+msgid " Blog category Link"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:109
+msgid " Blog Title"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:110
+#: elementor/sections/blog1-section.php:149
+#: elementor/sections/blog2-section.php:102
+msgid "Web design done Delightful Visualization Examples"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:116
+#: elementor/sections/blog2-section.php:108
+msgid " Blog Title Link"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:123
+#: elementor/sections/blog3-section.php:126
+msgid " Blog Button"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:124
+#: elementor/sections/blog3-section.php:127
+#: elementor/sections/process-section.php:91
+#: elementor/widgets/blog-widget.php:70 elementor/widgets/blog-widget.php:300
+#: elementor/widgets/work-process-widget.php:46
+msgid "Read More"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:130
+#: elementor/sections/blog3-section.php:133
+msgid " Blog Button Link"
+msgstr ""
+
+#: elementor/sections/blog1-section.php:137
+#: elementor/sections/blog3-section.php:140
+msgid "Blog Icon"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:11
+msgid "Techlon Blog2 Section"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:26
+#: elementor/sections/blog2-section.php:182
+msgid "Blog2 Section"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:42
+#: elementor/sections/blog3-section.php:54
+msgid "Checkout Our Latest News & Articles"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:50
+msgid ""
+"Aperiamea queipsa quae abillo inve ntore veritatis et\n"
+"                                         quasi architecto beatae vitae dicta "
+"sunt explicabo."
+msgstr ""
+
+#: elementor/sections/blog2-section.php:59
+msgid "Blog2 Card"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:65
+#: elementor/sections/blog2-section.php:124
+msgid "Blog2 Image"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:74
+#: elementor/sections/blog2-section.php:153
+msgid " Blog2 Category"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:81
+#: elementor/sections/blog2-section.php:160
+msgid " Blog2 category Link"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:88
+#: elementor/sections/blog2-section.php:140
+msgid "Blog2 Date Icon"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:101
+#: elementor/sections/blog2-section.php:167
+msgid " Blog2 Title"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:117
+msgid "Blog2 Section Card"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:133
+msgid " Blog2 Image Link"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:146
+msgid " Blog2 Date"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:168
+#: elementor/sections/blog2-section.php:187
+#: elementor/sections/blog3-section.php:113
+#: elementor/sections/blog3-section.php:152
+msgid "Technology Support Allows Erie non-profit to Serve"
+msgstr ""
+
+#: elementor/sections/blog2-section.php:174
+msgid " Blog2 Title Link"
+msgstr ""
+
+#: elementor/sections/blog3-section.php:11
+msgid "Techlon Blog3 Section"
+msgstr ""
+
+#: elementor/sections/blog3-section.php:26
+#: elementor/sections/blog3-section.php:147
+msgid "Blog3 Section"
+msgstr ""
+
+#: elementor/sections/blog3-section.php:62
+msgid "Blog3 Section Card"
+msgstr ""
+
+#: elementor/sections/blog3-section.php:69
+msgid "Blog3 Image"
+msgstr ""
+
+#: elementor/sections/blog3-section.php:78
+msgid " Blog3 Image Link"
+msgstr ""
+
+#: elementor/sections/blog3-section.php:85
+msgid "Blog3 Date Icon"
+msgstr ""
+
+#: elementor/sections/blog3-section.php:91
+msgid " Blog3 Date"
+msgstr ""
+
+#: elementor/sections/blog3-section.php:98
+msgid " Blog3 Category"
+msgstr ""
+
+#: elementor/sections/blog3-section.php:105
+msgid " Blog3 category Link"
+msgstr ""
+
+#: elementor/sections/blog3-section.php:112
+msgid " Blog3 Title"
+msgstr ""
+
+#: elementor/sections/blog3-section.php:119
+msgid " Blog3 Title Link"
+msgstr ""
+
+#: elementor/sections/brand-section.php:11
+msgid "Techlon Brand Section"
+msgstr ""
+
+#: elementor/sections/brand-section.php:26
+#: elementor/sections/brand-section.php:43
+msgid "Brand Section"
+msgstr ""
+
+#: elementor/sections/brand2-section.php:11
+msgid "Techlon Brand2 Section"
+msgstr ""
+
+#: elementor/sections/brand2-section.php:26
+#: elementor/sections/brand2-section.php:43
+msgid "Brand2 Section"
+msgstr ""
+
+#: elementor/sections/brand3-section.php:11
+msgid "Techlon Brand3 Section"
+msgstr ""
+
+#: elementor/sections/brand3-section.php:26
+#: elementor/sections/brand3-section.php:43
+msgid "Brand3 Section"
+msgstr ""
+
+#: elementor/sections/contact-section.php:11
+msgid "Techlon Contact Section"
+msgstr ""
+
+#: elementor/sections/contact-section.php:26
+msgid "Contact Section"
+msgstr ""
+
+#: elementor/sections/contact-section.php:43
+#: elementor/sections/contact2-section.php:43
+msgid "Contact with us"
+msgstr ""
+
+#: elementor/sections/contact-section.php:51
+#: elementor/sections/contact2-section.php:51
+msgid "Join Us To Get IT Free Consultations"
+msgstr ""
+
+#: elementor/sections/contact-section.php:57
+#: elementor/sections/cta-section.php:41 elementor/sections/cta3-section.php:33
+#: elementor/sections/cta7-section.php:34
+#: elementor/sections/process-section.php:32
+msgid " Section Image"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:11
+msgid "Techlon Contact2 Section"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:26
+msgid "Contact2 Section"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:59
+msgid "Contact Item1"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:65
+msgid " Item1 Title"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:67
+#: elementor/widgets/info-widget.php:26 elementor/widgets/info-widget.php:36
+#: elementor/widgets/info-widget.php:39
+msgid "Address"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:73
+msgid " Item1 Text"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:75
+msgid "88 New Street, Washington DC  United States, America"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:83
+msgid "Contact Item2"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:89
+msgid " Item2 Title"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:91
+#: elementor/widgets/info-widget.php:27
+msgid "Phone"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:97
+msgid " Item2 Text1"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:99
+msgid "Local:"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:105
+msgid " Item2 Text2"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:107
+msgid "Mobile:"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:113
+msgid " Item2 Number1"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:115
+#: elementor/widgets/info-widget.php:65
+msgid "222 999 888"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:121
+msgid " Item2 Number1 Link"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:127
+msgid " Item2 Number2"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:129
+#: elementor/widgets/info-widget.php:69
+msgid "000 8888 999"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:135
+msgid " Item2 Number2 Link"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:143
+msgid "Contact Item3"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:149
+msgid " Item3 Title"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:151
+#: elementor/widgets/info-widget.php:28
+msgid "Email"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:157
+msgid " Item3 Email1"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:159
+#: elementor/widgets/info-widget.php:90
+#: inc/widget-option/techlon-contact-widget.php:50
+msgid "needhelp@company.com"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:165
+msgid " Email1 Link"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:171
+msgid " Item3 Email2"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:173
+#: elementor/widgets/info-widget.php:93
+msgid "inquiry@company.com"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:179
+msgid " Email2 Link"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:187
+msgid "Contact Icon"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:194
+#: elementor/sections/contact2-section.php:208
+#: elementor/widgets/slider-widget.php:138
+#: elementor/widgets/social-icon-widget.php:30
+#: elementor/widgets/social-icon-widget.php:76
+msgid "Social Icon"
+msgstr ""
+
+#: elementor/sections/contact2-section.php:200
+msgid "Icon Link"
+msgstr ""
+
+#: elementor/sections/counter-section.php:11
+msgid "Techlon Counter Section"
+msgstr ""
+
+#: elementor/sections/counter-section.php:26
+msgid "Counter Section "
+msgstr ""
+
+#: elementor/sections/counter-section.php:33
+msgid "Section Icon "
+msgstr ""
+
+#: elementor/sections/counter-section.php:41
+msgid "  All Businesses Interogations"
+msgstr ""
+
+#: elementor/sections/counter-section.php:42
+#: elementor/sections/project-section.php:69
+#: elementor/sections/project-section.php:77
+#: elementor/sections/project2-section.php:97
+#: elementor/sections/project2-section.php:105
+#: elementor/sections/slider1-section.php:53
+#: elementor/sections/testimonial3-section.php:79
+#: elementor/sections/testimonial3-section.php:95
+#: elementor/sections/testimonial5-section.php:79
+#: elementor/sections/testimonial5-section.php:95
+msgid "Type your Text here"
+msgstr ""
+
+#: elementor/sections/counter-section.php:49
+msgid " 225"
+msgstr ""
+
+#: elementor/sections/counter-section.php:55
+msgid "Counter Section"
+msgstr ""
+
+#: elementor/sections/counter-section.php:60
+msgid " All Businesses Interogations"
+msgstr ""
+
+#: elementor/sections/cta-section.php:11
+msgid "Techlon Cta1 Section"
+msgstr ""
+
+#: elementor/sections/cta-section.php:26 elementor/sections/cta7-section.php:27
+msgid "Cta Section"
+msgstr ""
+
+#: elementor/sections/cta-section.php:50 elementor/sections/cta7-section.php:44
+msgid "Section Floting Image"
+msgstr ""
+
+#: elementor/sections/cta-section.php:64 elementor/sections/cta7-section.php:60
+msgid "Need Technology Solution"
+msgstr ""
+
+#: elementor/sections/cta-section.php:72 elementor/sections/cta7-section.php:68
+msgid "Let’s Work Together on Project"
+msgstr ""
+
+#: elementor/sections/cta-section.php:80 elementor/sections/cta5-section.php:75
+#: elementor/sections/cta7-section.php:76
+msgid "Start Now"
+msgstr ""
+
+#: elementor/sections/cta-section.php:86 elementor/sections/cta2-section.php:81
+#: elementor/sections/cta4-section.php:54
+#: elementor/sections/cta5-section.php:81
+#: elementor/sections/cta6-section.php:54
+#: elementor/sections/cta7-section.php:82
+#: elementor/sections/testimonial-section.php:75
+msgid " Section Button Link"
+msgstr ""
+
+#: elementor/sections/cta2-section.php:11
+msgid "Techlon Cta2 Section"
+msgstr ""
+
+#: elementor/sections/cta2-section.php:26
+msgid "Cta2 Section"
+msgstr ""
+
+#: elementor/sections/cta2-section.php:32
+#: elementor/sections/cta5-section.php:32
+msgid " Section  Image"
+msgstr ""
+
+#: elementor/sections/cta2-section.php:53
+#: elementor/sections/cta5-section.php:53
+msgid " Section Title Image"
+msgstr ""
+
+#: elementor/sections/cta2-section.php:67
+#: elementor/sections/cta5-section.php:67
+msgid "Better IT Solutions And Services At Your Fingertips"
+msgstr ""
+
+#: elementor/sections/cta2-section.php:75
+msgid "Learn More "
+msgstr ""
+
+#: elementor/sections/cta3-section.php:11
+msgid "Techlon Cta3 Section"
+msgstr ""
+
+#: elementor/sections/cta3-section.php:26
+#: elementor/sections/cta3-section.php:65
+msgid "Cta3 Section"
+msgstr ""
+
+#: elementor/sections/cta3-section.php:50
+#: elementor/sections/cta3-section.php:71
+msgid "End to End Development"
+msgstr ""
+
+#: elementor/sections/cta3-section.php:58
+#: elementor/sections/cta3-section.php:70
+msgid "There are many variations of available"
+msgstr ""
+
+#: elementor/sections/cta4-section.php:11
+msgid "Techlon Cta4 Section"
+msgstr ""
+
+#: elementor/sections/cta4-section.php:26
+msgid "Cta4 Section"
+msgstr ""
+
+#: elementor/sections/cta4-section.php:40
+#: elementor/sections/cta6-section.php:40
+msgid "Need IT solutions & services consultation?"
+msgstr ""
+
+#: elementor/sections/cta5-section.php:11
+msgid "Techlon Cta5 Section"
+msgstr ""
+
+#: elementor/sections/cta5-section.php:26
+msgid "Cta5 Section"
+msgstr ""
+
+#: elementor/sections/cta6-section.php:11
+msgid "Techlon Cta6 Section"
+msgstr ""
+
+#: elementor/sections/cta6-section.php:26
+msgid "Cta6 Section"
+msgstr ""
+
+#: elementor/sections/cta7-section.php:12
+msgid "Techlon Cta7 Section"
+msgstr ""
+
+#: elementor/sections/map-section.php:11
+msgid "Techlon Map Section"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:11
+msgid "Techlon Pricing Section"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:26
+msgid "Pricing Section"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:43
+msgid "POPULAR PRICING"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:51
+msgid "Choose Our Pricing Table Plan"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:59
+msgid ""
+"Aperiamea queipsa quae abillo inve ntore veritatis et quasi\n"
+"                                         architecto beatae vitae dicta sunt "
+"explicabo.."
+msgstr ""
+
+#: elementor/sections/pricing-section.php:83
+msgid " Section Counter"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:89
+msgid "Counter1 Value"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:91
+msgid "0.5"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:97
+msgid "Counter1 Text"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:99
+msgid "50%"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:105
+msgid "Counter1 Title"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:107
+#: elementor/widgets/progress-bar-widget.php:33
+msgid "Software"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:113
+msgid "Counter2 Value"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:115
+msgid "0.8"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:121
+msgid "Counter2 Text"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:123
+msgid "85%"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:129
+msgid "Counter2 Title"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:131
+#: elementor/widgets/slider-widget.php:55
+#: elementor/widgets/slider-widget.php:124
+msgid "Technology"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:139
+msgid "Card1 Item"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:145
+msgid " Card1 Name"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:147
+#: elementor/sections/pricing-section.php:194
+#: elementor/widgets/package-widget.php:25
+msgid "Regular Plan"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:153
+#: elementor/sections/pricing-section.php:200
+msgid " Card1  Price"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:155
+msgid "$54.99"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:161
+msgid " Card1 Time"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:163
+#: elementor/sections/pricing-section.php:210
+msgid "/Monthly"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:169
+msgid " Card1  Button"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:171
+#: elementor/sections/pricing-section.php:218
+msgid "GET STARTED"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:177
+#: elementor/sections/pricing-section.php:224
+msgid "Card1 Button Link"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:186
+msgid "Card2 Item"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:192
+msgid " Card2 Name"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:202
+msgid "$64.99"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:208
+msgid " Card2 Time"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:216
+msgid " Card2  Button"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:233
+msgid " List1 Item"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:240
+msgid "List1 Icon"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:246
+msgid "List1 Text"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:248
+#: elementor/sections/pricing-section.php:285
+msgid " Business & Finance Analysing"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:255
+#: elementor/sections/pricing-section.php:292
+msgid "List1 Section"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:260
+#: elementor/sections/pricing-section.php:297
+#: elementor/widgets/package-widget.php:62
+#: elementor/widgets/package-widget.php:77
+msgid "Business & Finance Analysing"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:270
+msgid " List2 Item"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:277
+msgid "List2 Icon"
+msgstr ""
+
+#: elementor/sections/pricing-section.php:283
+msgid "List2 Text"
+msgstr ""
+
+#: elementor/sections/process-section.php:11
+msgid "Techlon Process Section"
+msgstr ""
+
+#: elementor/sections/process-section.php:26
+msgid "Process Section"
+msgstr ""
+
+#: elementor/sections/process-section.php:43
+msgid "OUR WORKING PROCESS"
+msgstr ""
+
+#: elementor/sections/process-section.php:51
+msgid "Driving Client Results Utilizing New Innovation Points of view"
+msgstr ""
+
+#: elementor/sections/process-section.php:59
+msgid "Card Process Section"
+msgstr ""
+
+#: elementor/sections/process-section.php:68
+#: elementor/sections/process-section.php:111
+msgid "End to End Solutions & ServicesGuaranteed"
+msgstr ""
+
+#: elementor/sections/process-section.php:83
+msgid ""
+"We help transform the world’s most important businesses into vigorous "
+"organizations that "
+msgstr ""
+
+#: elementor/sections/process-section.php:89
+msgid " Card Button"
+msgstr ""
+
+#: elementor/sections/process-section.php:97
+msgid "Card Button Link"
+msgstr ""
+
+#: elementor/sections/process-section.php:105
+#: elementor/sections/project2-section.php:125
+#: elementor/sections/project3-section.php:65
+#: elementor/sections/project3-section.php:118
+msgid "Card Section"
+msgstr ""
+
+#: elementor/sections/process-section.php:110
+#: elementor/widgets/work-process-widget.php:36
+msgid ""
+"We help transform the world’s most important businesses into vigorous "
+"organizations that"
+msgstr ""
+
+#: elementor/sections/project-section.php:11
+msgid "Techlon Project1 Section"
+msgstr ""
+
+#: elementor/sections/project-section.php:26
+#: elementor/sections/project-section.php:103
+#: elementor/sections/testimonial-section.php:171
+#: elementor/sections/testimonial2-section.php:125
+#: elementor/sections/testimonial4-section.php:143
+msgid "Project1 Section"
+msgstr ""
+
+#: elementor/sections/project-section.php:34
+#: elementor/sections/project2-section.php:34
+#: elementor/sections/project3-section.php:34
+msgid "Latest Project"
+msgstr ""
+
+#: elementor/sections/project-section.php:42
+#: elementor/sections/project3-section.php:42
+msgid "Check We Have Solution Done IT Project"
+msgstr ""
+
+#: elementor/sections/project-section.php:50
+msgid "Project Section Card"
+msgstr ""
+
+#: elementor/sections/project-section.php:57
+#: elementor/sections/team-section.php:66
+#: elementor/sections/team2-section.php:60
+#: elementor/sections/testimonial3-section.php:66
+#: elementor/sections/testimonial5-section.php:66
+msgid "Card Image"
+msgstr ""
+
+#: elementor/sections/project-section.php:66
+#: elementor/sections/services1-section.php:96
+#: elementor/sections/testimonial3-section.php:75
+#: elementor/sections/testimonial5-section.php:75
+msgid "Card Text"
+msgstr ""
+
+#: elementor/sections/project-section.php:68
+#: elementor/sections/project-section.php:109
+#: elementor/sections/project3-section.php:83
+#: elementor/sections/project4-section.php:44
+#: elementor/sections/project4-section.php:80
+msgid "IT Technology Solution"
+msgstr ""
+
+#: elementor/sections/project-section.php:74
+#: elementor/sections/services1-section.php:81
+#: elementor/sections/testimonial-section.php:97
+#: elementor/sections/testimonial3-section.php:84
+#: elementor/sections/testimonial5-section.php:84
+msgid "Card Title"
+msgstr ""
+
+#: elementor/sections/project-section.php:76
+#: elementor/sections/project-section.php:108
+#: elementor/sections/project3-section.php:91
+#: elementor/sections/project3-section.php:123
+#: elementor/sections/project4-section.php:52
+#: elementor/sections/project4-section.php:79
+msgid "Data Recovery"
+msgstr ""
+
+#: elementor/sections/project-section.php:89
+msgid "Card Icon "
+msgstr ""
+
+#: elementor/sections/project-section.php:95
+msgid "Card Icon Link "
+msgstr ""
+
+#: elementor/sections/project2-section.php:11
+msgid "Techlon Project2 Section"
+msgstr ""
+
+#: elementor/sections/project2-section.php:26
+msgid "Project2 Section"
+msgstr ""
+
+#: elementor/sections/project2-section.php:42
+msgid "Populer Case Studies That Complete Recently"
+msgstr ""
+
+#: elementor/sections/project2-section.php:50
+msgid "Project2 Section Card"
+msgstr ""
+
+#: elementor/sections/project2-section.php:57
+msgid "Section Image1"
+msgstr ""
+
+#: elementor/sections/project2-section.php:66
+msgid "Section Image2"
+msgstr ""
+
+#: elementor/sections/project2-section.php:75
+msgid "Section Image3"
+msgstr ""
+
+#: elementor/sections/project2-section.php:84
+msgid "Section Image4"
+msgstr ""
+
+#: elementor/sections/project2-section.php:94
+msgid "Section Cateory"
+msgstr ""
+
+#: elementor/sections/project2-section.php:96
+#: elementor/sections/project2-section.php:131
+msgid "IT Consulting"
+msgstr ""
+
+#: elementor/sections/project2-section.php:104
+#: elementor/sections/project2-section.php:130
+msgid "Financial Investment"
+msgstr ""
+
+#: elementor/sections/project2-section.php:110
+#: elementor/sections/project4-section.php:58
+#: elementor/sections/team-section.php:83
+#: elementor/sections/team2-section.php:78
+msgid " Section Title Link"
+msgstr ""
+
+#: elementor/sections/project2-section.php:117
+msgid " Section icon Link"
+msgstr ""
+
+#: elementor/sections/project3-section.php:11
+msgid "Techlon Project3 Section"
+msgstr ""
+
+#: elementor/sections/project3-section.php:26
+msgid "Project3 Section"
+msgstr ""
+
+#: elementor/sections/project3-section.php:48
+msgid "Section Button "
+msgstr ""
+
+#: elementor/sections/project3-section.php:50
+msgid "Discover more"
+msgstr ""
+
+#: elementor/sections/project3-section.php:110
+msgid "Section Icon Link"
+msgstr ""
+
+#: elementor/sections/project4-section.php:11
+msgid "Techlon Project4 Section"
+msgstr ""
+
+#: elementor/sections/project4-section.php:26
+#: elementor/sections/project4-section.php:74
+msgid "Project4 Section"
+msgstr ""
+
+#: elementor/sections/project4-section.php:66
+msgid " Section Icon Link"
+msgstr ""
+
+#: elementor/sections/service-category.php:11
+msgid "Techlon Service Category Section"
+msgstr ""
+
+#: elementor/sections/service-category.php:26
+msgid "Service Category Section"
+msgstr ""
+
+#: elementor/sections/service-category.php:42
+#: elementor/sections/service-category2-section.php:42
+msgid " Section Logo Text"
+msgstr ""
+
+#: elementor/sections/service-category.php:44
+#: elementor/sections/service-category2-section.php:44
+msgid "G"
+msgstr ""
+
+#: elementor/sections/service-category.php:52
+#: elementor/sections/service-category.php:76
+#: elementor/sections/service-category2-section.php:52
+#: elementor/sections/service-category2-section.php:82
+msgid "Gaming and Entertainment"
+msgstr ""
+
+#: elementor/sections/service-category.php:61
+#: elementor/sections/service-category2-section.php:67
+msgid ""
+"Lorem Ipsum is dummy text of the new design printng\n"
+"                                    and type setting Ipsum has been the is "
+"industrys."
+msgstr ""
+
+#: elementor/sections/service-category.php:69
+msgid "Service Category "
+msgstr ""
+
+#: elementor/sections/service-category.php:74
+#: elementor/sections/service-category2-section.php:80
+msgid ""
+"Lorem Ipsum is dummy text of the new design printng\n"
+"                                                                                and "
+"type setting Ipsum has been the is industrys."
+msgstr ""
+
+#: elementor/sections/service-category2-section.php:11
+msgid "Techlon Service Category2 Section"
+msgstr ""
+
+#: elementor/sections/service-category2-section.php:26
+msgid "Service Category2 Section"
+msgstr ""
+
+#: elementor/sections/service-category2-section.php:75
+msgid "Service Category2 "
+msgstr ""
+
+#: elementor/sections/service2-section.php:11
+msgid "Techlon Service2 Section"
+msgstr ""
+
+#: elementor/sections/service2-section.php:26
+msgid "Service2 Section"
+msgstr ""
+
+#: elementor/sections/service2-section.php:51
+msgid "Business Solutions to Growth Business"
+msgstr ""
+
+#: elementor/sections/service2-section.php:59
+msgid ""
+"System is a term used to refer to an organized collection\n"
+"                                         symbols and processes that may be "
+"used to operate on such symbols. Perspiciatis unde\n"
+"                                          omnis natus error voluptatems "
+"accusa."
+msgstr ""
+
+#: elementor/sections/service2-section.php:75
+#: elementor/sections/slider1-section.php:73
+#: elementor/sections/slider2-section.php:57
+#: elementor/sections/slider3-section.php:65
+msgid "Section Button Link"
+msgstr ""
+
+#: elementor/sections/service2-section.php:84
+msgid "Service2 Section List"
+msgstr ""
+
+#: elementor/sections/service2-section.php:91
+#: elementor/sections/testimonial-section.php:164
+#: elementor/sections/testimonial4-section.php:136
+#: elementor/sections/whychoose-section.php:142
+msgid " Section Icon"
+msgstr ""
+
+#: elementor/sections/service2-section.php:99
+#: elementor/sections/service2-section.php:118
+msgid "Automated Software"
+msgstr ""
+
+#: elementor/sections/service2-section.php:113
+msgid "Service2 List "
+msgstr ""
+
+#: elementor/sections/service3-section.php:11
+msgid "Techlon Service3 Section"
+msgstr ""
+
+#: elementor/sections/service3-section.php:26
+msgid "Service3 Section"
+msgstr ""
+
+#: elementor/sections/service3-section.php:43
+msgid "What We offier"
+msgstr ""
+
+#: elementor/sections/service3-section.php:51
+msgid "Help you Overcome your  Technology Challenges"
+msgstr ""
+
+#: elementor/sections/service3-section.php:59
+msgid ""
+"Accusa ntium doloremque laudantium totam rem\n"
+"                                         aperiamea queipsa quae abillo "
+"inventore veritatis."
+msgstr ""
+
+#: elementor/sections/service3-section.php:68
+msgid "Service3 List"
+msgstr ""
+
+#: elementor/sections/service3-section.php:83
+#: elementor/sections/service3-section.php:102
+msgid "Website"
+msgstr ""
+
+#: elementor/sections/service3-section.php:89
+msgid "List Title Link"
+msgstr ""
+
+#: elementor/sections/service3-section.php:97
+msgid "List Items "
+msgstr ""
+
+#: elementor/sections/services1-section.php:11
+msgid "Techlon Service1 Section"
+msgstr ""
+
+#: elementor/sections/services1-section.php:26
+msgid "Service1 Section"
+msgstr ""
+
+#: elementor/sections/services1-section.php:43
+msgid "Popular Services"
+msgstr ""
+
+#: elementor/sections/services1-section.php:51
+msgid "We Provide Our Client Best IT Solution Services"
+msgstr ""
+
+#: elementor/sections/services1-section.php:59
+msgid ""
+"System is a term used to refer to an organized collection\n"
+"                                        symbols and processes that may be "
+"used to operate on such symbols."
+msgstr ""
+
+#: elementor/sections/services1-section.php:68
+msgid "Service1 Section Card"
+msgstr ""
+
+#: elementor/sections/services1-section.php:75
+#: elementor/sections/testimonial3-section.php:100
+#: elementor/sections/testimonial5-section.php:100
+msgid "Card Icon"
+msgstr ""
+
+#: elementor/sections/services1-section.php:83
+#: elementor/sections/services1-section.php:111
+msgid "Product Development"
+msgstr ""
+
+#: elementor/sections/services1-section.php:84
+#: elementor/sections/services1-section.php:99
+#: elementor/sections/slider1-section.php:61
+#: elementor/sections/slider2-section.php:45
+#: elementor/sections/slider3-section.php:45
+#: elementor/sections/slider3-section.php:53
+#: elementor/sections/testimonial-section.php:100
+#: elementor/sections/testimonial3-section.php:87
+#: elementor/sections/testimonial5-section.php:87
+msgid "Type your Title here"
+msgstr ""
+
+#: elementor/sections/services1-section.php:98
+#: elementor/sections/services1-section.php:110
+msgid "Providing the solutions for non-IT businesses."
+msgstr ""
+
+#: elementor/sections/services1-section.php:105
+msgid "Service Section"
+msgstr ""
+
+#: elementor/sections/slider1-section.php:11
+msgid "Techlon Slider1 Section"
+msgstr ""
+
+#: elementor/sections/slider1-section.php:26
+msgid "Slider1 Section"
+msgstr ""
+
+#: elementor/sections/slider1-section.php:42
+msgid "Section Lettering Text"
+msgstr ""
+
+#: elementor/sections/slider1-section.php:44
+#: elementor/sections/slider1-section.php:86
+msgid "technology"
+msgstr ""
+
+#: elementor/sections/slider1-section.php:52
+#: elementor/sections/slider1-section.php:87
+#: elementor/sections/slider3-section.php:44
+#: elementor/widgets/slider-widget.php:47
+#: elementor/widgets/slider-widget.php:123
+msgid "Welcome to best IT Solutions"
+msgstr ""
+
+#: elementor/sections/slider1-section.php:60
+#: elementor/sections/slider1-section.php:88
+msgid "Provide IT Solutions and Services"
+msgstr ""
+
+#: elementor/sections/slider1-section.php:81
+#: elementor/sections/slider2-section.php:101
+#: elementor/sections/slider3-section.php:97
+msgid "Slider Section"
+msgstr ""
+
+#: elementor/sections/slider1-section.php:98
+msgid "Slider Shape Image"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:11
+msgid "Techlon Slider2 Section"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:26
+msgid "Slider2 Section"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:44
+#: elementor/sections/slider2-section.php:106
+#: elementor/sections/slider3-section.php:102
+msgid "IT Solutions to Grow Your  Business"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:64
+#: elementor/sections/slider3-section.php:72
+msgid "Section Shape Image1"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:76
+#: elementor/sections/slider3-section.php:84
+msgid "Section Shape Image2"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:88
+msgid "Section Shape Image3"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:116
+msgid "Slider2 Social Icon"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:122
+#: elementor/sections/team-section.php:97
+#: elementor/sections/team2-section.php:92
+msgid "Icon1"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:128
+#: elementor/sections/team-section.php:103
+#: elementor/sections/team2-section.php:99
+msgid "Icon1 Link"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:135
+#: elementor/sections/team-section.php:110
+#: elementor/sections/team2-section.php:107
+msgid "Icon2"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:141
+#: elementor/sections/team-section.php:116
+#: elementor/sections/team2-section.php:114
+msgid "Icon2 Link"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:148
+#: elementor/sections/team-section.php:123
+#: elementor/sections/team2-section.php:122
+msgid "Icon3"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:154
+#: elementor/sections/team-section.php:129
+#: elementor/sections/team2-section.php:129
+msgid "Icon3 Link"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:161
+#: elementor/sections/team-section.php:136
+#: elementor/sections/team2-section.php:137
+msgid "Icon4"
+msgstr ""
+
+#: elementor/sections/slider2-section.php:167
+#: elementor/sections/team-section.php:142
+#: elementor/sections/team2-section.php:144
+msgid "Icon4 Link"
+msgstr ""
+
+#: elementor/sections/slider3-section.php:11
+msgid "Techlon Slider3 Section"
+msgstr ""
+
+#: elementor/sections/slider3-section.php:26
+msgid "Slider3 Section"
+msgstr ""
+
+#: elementor/sections/slider3-section.php:52
+msgid "Future Belongs to Technology"
+msgstr ""
+
+#: elementor/sections/step-section.php:11
+msgid "Techlon Step Section"
+msgstr ""
+
+#: elementor/sections/step-section.php:26
+msgid "Step Section Backgraound"
+msgstr ""
+
+#: elementor/sections/step-section.php:32
+msgid " Section Bg Color"
+msgstr ""
+
+#: elementor/sections/step-section.php:55
+msgid "Step Section 1"
+msgstr ""
+
+#: elementor/sections/step-section.php:72
+#: elementor/sections/step-section.php:104
+#: elementor/sections/step-section.php:136
+msgid "Perfect Solutions that business demands"
+msgstr ""
+
+#: elementor/sections/step-section.php:87
+msgid "Step Section 2"
+msgstr ""
+
+#: elementor/sections/step-section.php:119
+msgid "Step Section3 "
+msgstr ""
+
+#: elementor/sections/team-section.php:11
+msgid "Techlon Team Section"
+msgstr ""
+
+#: elementor/sections/team-section.php:26
+#: elementor/sections/team-section.php:150
+#: elementor/sections/team2-section.php:27
+#: elementor/sections/team2-section.php:153
+msgid "Team Section"
+msgstr ""
+
+#: elementor/sections/team-section.php:43
+#: elementor/sections/team2-section.php:37
+msgid "Our Team members"
+msgstr ""
+
+#: elementor/sections/team-section.php:51
+#: elementor/sections/team2-section.php:45
+msgid "Our Expert Person to Provide  IT Solution Services"
+msgstr ""
+
+#: elementor/sections/team-section.php:59
+#: elementor/sections/team2-section.php:53
+msgid "Team Section Card"
+msgstr ""
+
+#: elementor/sections/team-section.php:77
+#: elementor/sections/team-section.php:156
+#: elementor/sections/team2-section.php:72
+#: elementor/sections/team2-section.php:159
+msgid "Michelle Monaghan"
+msgstr ""
+
+#: elementor/sections/team-section.php:90
+#: elementor/sections/team2-section.php:85
+#: elementor/sections/testimonial-section.php:156
+#: elementor/sections/testimonial4-section.php:128
+msgid " Section Designation"
+msgstr ""
+
+#: elementor/sections/team2-section.php:12
+msgid "Techlon Team2 Section"
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:11
+msgid "Techlon Testimonial Section"
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:26
+#: elementor/sections/testimonial2-section.php:26
+msgid "Testimonial Section "
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:43
+#: elementor/sections/testimonial2-section.php:43
+#: elementor/sections/testimonial3-section.php:43
+#: elementor/sections/testimonial4-section.php:43
+#: elementor/sections/testimonial5-section.php:43
+msgid "Our clients"
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:51
+#: elementor/sections/testimonial2-section.php:51
+#: elementor/sections/testimonial4-section.php:51
+msgid "We Are Trusted Worldwide Peoples"
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:59
+#: elementor/sections/testimonial4-section.php:59
+msgid ""
+"Sed ut perspiciatis unde omnis natus error sit\n"
+"                                        voluptatem accusa ntium doloremque "
+"laudantium totam rem aperiamea queipsa quae abillo\n"
+"                                        inventore veritatis et quasi "
+"architecto beatae vitae dicta sunt explicabo."
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:69
+#: elementor/sections/testimonial4-section.php:78
+msgid "View All  feedbacks"
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:84
+msgid "Tetimonial Section List"
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:99
+msgid " Pellentes gravida lectus."
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:106
+msgid "Testimonial Section"
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:111
+msgid "Pellentes gravida lectus."
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:121
+msgid "Tetimonial Section Swiper"
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:128
+#: elementor/sections/testimonial2-section.php:151
+#: elementor/sections/testimonial4-section.php:100
+msgid "Swiper Image"
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:139
+#: elementor/sections/testimonial-section.php:178
+#: elementor/sections/testimonial4-section.php:111
+#: elementor/sections/testimonial4-section.php:150
+msgid ""
+"On the other hand denounc with\n"
+"                                                    ghteo indignation and "
+"dislike men who so beguiled and demoralized the\n"
+"                                                    charms of pleasure\n"
+"                                                    the momen blinded by "
+"desire cannot foresee the pain and trouble."
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:150
+#: elementor/sections/testimonial-section.php:177
+#: elementor/sections/testimonial2-section.php:101
+#: elementor/sections/testimonial2-section.php:131
+#: elementor/sections/testimonial3-section.php:86
+#: elementor/sections/testimonial3-section.php:112
+#: elementor/sections/testimonial4-section.php:122
+#: elementor/sections/testimonial4-section.php:149
+#: elementor/sections/testimonial5-section.php:86
+#: elementor/sections/testimonial5-section.php:112
+msgid "Michal Rahul"
+msgstr ""
+
+#: elementor/sections/testimonial-section.php:158
+#: elementor/sections/testimonial-section.php:176
+#: elementor/sections/testimonial2-section.php:109
+#: elementor/sections/testimonial2-section.php:130
+#: elementor/sections/testimonial3-section.php:94
+#: elementor/sections/testimonial4-section.php:130
+#: elementor/sections/testimonial4-section.php:148
+#: elementor/sections/testimonial5-section.php:94
+msgid "Ul - UX Designer"
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:11
+msgid "Techlon Testimonial2 Section"
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:59
+msgid "Testimonial2 Image "
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:65
+msgid "Testimonial Image"
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:76
+msgid "Testimonial Slide Section "
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:83
+#: elementor/sections/testimonial2-section.php:178
+msgid " Slide Icon"
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:89
+msgid " Slide Text"
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:91
+#: elementor/sections/testimonial2-section.php:132
+msgid ""
+"This is due to their excellentservice, competitivepricing and customer "
+"support.\n"
+"                                         It’s refresing to get such a "
+"personaltouch. Duis autelorem ipsumis simply free\n"
+"                                          text available in the market "
+"reprehen."
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:99
+msgid " Slide Title"
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:107
+msgid " Slide Designation"
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:115
+msgid "Testimonial Slide Image"
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:144
+msgid "Testimonial2 Swiper Image "
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:161
+msgid "Testimonial1 Section"
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:171
+msgid "Testimonial2 Slide Icons "
+msgstr ""
+
+#: elementor/sections/testimonial2-section.php:185
+msgid "Slide Icon Section"
+msgstr ""
+
+#: elementor/sections/testimonial3-section.php:11
+msgid "Techlon Testimonial3 Section"
+msgstr ""
+
+#: elementor/sections/testimonial3-section.php:26
+msgid "Testimonial3 Section "
+msgstr ""
+
+#: elementor/sections/testimonial3-section.php:32
+msgid "Testimonial3 Image"
+msgstr ""
+
+#: elementor/sections/testimonial3-section.php:51
+#: elementor/sections/testimonial5-section.php:51
+msgid "Trusted Worldwide Peoples"
+msgstr ""
+
+#: elementor/sections/testimonial3-section.php:59
+msgid "Tetimonial3 Card"
+msgstr ""
+
+#: elementor/sections/testimonial3-section.php:77
+#: elementor/sections/testimonial5-section.php:77
+msgid ""
+"On the other hand denounc with ghteoindignation and dislike men who so "
+"beguiled and demoralized the charms of pleasure\n"
+"                                         the momen blinded by desire cannot "
+"foresee the pain and trouble."
+msgstr ""
+
+#: elementor/sections/testimonial3-section.php:92
+#: elementor/sections/testimonial5-section.php:92
+msgid "Card Designation"
+msgstr ""
+
+#: elementor/sections/testimonial3-section.php:107
+msgid "Testimonial3 Card"
+msgstr ""
+
+#: elementor/sections/testimonial3-section.php:113
+#: elementor/sections/testimonial5-section.php:113
+msgid ""
+"On the other hand denounc with\n"
+"                              ghteoindignation and dislike men who so "
+"beguiled and demoralized the charms of pleasure\n"
+"                              the momen blinded by desire cannot foresee the "
+"pain and trouble."
+msgstr ""
+
+#: elementor/sections/testimonial4-section.php:11
+msgid "Techlon Testimonial4 Section"
+msgstr ""
+
+#: elementor/sections/testimonial4-section.php:26
+msgid "Testimonial4 Section "
+msgstr ""
+
+#: elementor/sections/testimonial4-section.php:67
+msgid "Section Text2"
+msgstr ""
+
+#: elementor/sections/testimonial4-section.php:69
+msgid ""
+"Pellentesque gravida lectus vitae nisi luctus,\n"
+"                                Finibus aliquet ligula ultrices."
+msgstr ""
+
+#: elementor/sections/testimonial4-section.php:84
+msgid "  Button Link"
+msgstr ""
+
+#: elementor/sections/testimonial4-section.php:93
+msgid "Tetimonial4 Section Swiper"
+msgstr ""
+
+#: elementor/sections/testimonial5-section.php:11
+msgid "Techlon Testimonial5 Section"
+msgstr ""
+
+#: elementor/sections/testimonial5-section.php:26
+msgid "Testimonial5 Section "
+msgstr ""
+
+#: elementor/sections/testimonial5-section.php:32
+msgid "Testimonial5 Image"
+msgstr ""
+
+#: elementor/sections/testimonial5-section.php:59
+msgid "Tetimonial5 Card"
+msgstr ""
+
+#: elementor/sections/testimonial5-section.php:107
+msgid "Testimonial5 Card"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:11
+msgid "Techlon Whychoose Section"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:26
+msgid "Whychoose Section "
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:32
+msgid " Section floting Image1"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:41
+msgid " Section floting Image2"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:81
+msgid "Why You Should Choose Our Services"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:87
+msgid " Section Para"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:89
+msgid ""
+"Choose Infetech to have custom software solutions for your\n"
+"                                business with the most reasonable price."
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:98
+msgid "Whychoose Section Check List"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:105
+msgid " Check List Title"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:107
+#: elementor/sections/whychoose-section.php:125
+msgid "Integer et massa sit"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:113
+msgid " Check List Icon"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:120
+msgid "Check List "
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:135
+msgid "Whychoose Section Item List"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:148
+msgid " Item List Title"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:150
+#: elementor/sections/whychoose-section.php:178
+msgid "Cloud Based Services"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:156
+msgid " Item List Title Link"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:163
+msgid " Item List Text"
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:165
+#: elementor/sections/whychoose-section.php:177
+msgid ""
+"Services address a range of simply free text application and infrastructure "
+"needs."
+msgstr ""
+
+#: elementor/sections/whychoose-section.php:172
+msgid "Item List "
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:8
+#: elementor/widgets/accordian-widget.php:19
+msgid "Techlon Accordian"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:27
+#: elementor/widgets/accordian-widget.php:46
+msgid "Nulla eu nisi pellentesque, ultrices lorem eget, mattis dolo"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:30
+#: elementor/widgets/accordian-widget.php:129
+#: elementor/widgets/counter-box.php:45 elementor/widgets/counter-box.php:79
+#: elementor/widgets/counter-box.php:200
+#: elementor/widgets/counter-list-widget.php:28
+#: elementor/widgets/counter-list-widget.php:97
+#: elementor/widgets/icon-box-widget.php:55
+#: elementor/widgets/image-widget.php:109 elementor/widgets/info-widget.php:48
+#: elementor/widgets/info-widget.php:135
+#: elementor/widgets/package-widget.php:60
+#: elementor/widgets/package-widget.php:65
+#: elementor/widgets/project-widget.php:194
+#: elementor/widgets/service-icon-box.php:36
+#: elementor/widgets/service-icon-widget.php:36
+#: elementor/widgets/service-widget.php:299
+#: elementor/widgets/testimonial-widget.php:51
+#: elementor/widgets/text-widget.php:26 elementor/widgets/text-widget.php:34
+#: elementor/widgets/work-process-widget.php:34
+#: elementor/widgets/work-process-widget.php:201
+#: inc/widget-option/techlon-button-widget.php:9
+#: inc/widget-option/techlon-contact-widget.php:21
+#: inc/widget-option/techlon-contact-widget.php:48
+#: inc/widget-option/techlon-contact-widget.php:75
+#: inc/widget-option/techlon-cta-widget.php:21
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:32
+#: elementor/widgets/accordian-widget.php:47
+msgid ""
+"There are many variations of passages the majority have suffered alteration "
+"in some fo injected humour, or randomised words believable. Phasellus a "
+"rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae."
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:35
+msgid "Show as Active"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:40
+msgid "Accordian List"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:54
+msgid "Accordian Box"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:58
+msgid "Accordian Gap"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:79
+#: elementor/widgets/blog-widget.php:94 elementor/widgets/blog-widget.php:209
+#: elementor/widgets/button-widget.php:152
+#: elementor/widgets/button-widget.php:210
+#: elementor/widgets/button-widget.php:221
+#: elementor/widgets/call-to-action.php:154
+#: elementor/widgets/call-to-action.php:296
+#: elementor/widgets/call-to-action.php:342
+#: elementor/widgets/call-to-action.php:352
+#: elementor/widgets/client-carousel.php:165
+#: elementor/widgets/client-carousel.php:174
+#: elementor/widgets/counter-box.php:120
+#: elementor/widgets/icon-box-widget.php:119
+#: elementor/widgets/image-widget.php:371
+#: elementor/widgets/package-widget.php:130
+#: elementor/widgets/package-widget.php:140
+#: elementor/widgets/package-widget.php:419
+#: elementor/widgets/package-widget.php:451
+#: elementor/widgets/package-widget.php:461
+#: elementor/widgets/project-widget.php:149
+#: elementor/widgets/service-icon-box.php:69
+#: elementor/widgets/service-icon-box.php:79
+#: elementor/widgets/service-icon-box.php:90
+#: elementor/widgets/service-widget.php:124
+#: elementor/widgets/service-widget.php:138
+#: elementor/widgets/slider-widget.php:597
+#: elementor/widgets/slider-widget.php:643
+#: elementor/widgets/team-widget.php:181
+#: elementor/widgets/work-process-widget.php:84
+#: elementor/widgets/work-process-widget.php:89
+#: elementor/widgets/work-process-widget.php:144
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:84
+#: elementor/widgets/counter-box.php:125 elementor/widgets/image-widget.php:378
+#: elementor/widgets/package-widget.php:135
+#: elementor/widgets/service-widget.php:146
+#: elementor/widgets/slider-widget.php:611
+#: elementor/widgets/slider-widget.php:658
+#: elementor/widgets/social-icon-widget.php:139
+#: elementor/widgets/social-icon-widget.php:164
+#: elementor/widgets/testimonial-widget.php:104
+#: elementor/widgets/testimonial-widget.php:141
+#: elementor/widgets/title-widget.php:112
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:94
+#: elementor/widgets/accordian-widget.php:133
+#: elementor/widgets/author-meta.php:57 elementor/widgets/author-meta.php:127
+#: elementor/widgets/author-meta.php:169 elementor/widgets/blog-widget.php:79
+#: elementor/widgets/blog-widget.php:113 elementor/widgets/blog-widget.php:174
+#: elementor/widgets/blog-widget.php:229 elementor/widgets/blog-widget.php:270
+#: elementor/widgets/blog-widget.php:304 elementor/widgets/button-widget.php:71
+#: elementor/widgets/call-to-action.php:139
+#: elementor/widgets/call-to-action.php:164
+#: elementor/widgets/call-to-action.php:203
+#: elementor/widgets/call-to-action.php:242
+#: elementor/widgets/client-carousel.php:114
+#: elementor/widgets/client-carousel.php:124
+#: elementor/widgets/client-carousel.php:147
+#: elementor/widgets/counter-box.php:106 elementor/widgets/counter-box.php:172
+#: elementor/widgets/counter-box.php:204
+#: elementor/widgets/counter-list-widget.php:39
+#: elementor/widgets/counter-list-widget.php:101
+#: elementor/widgets/icon-box-widget.php:100
+#: elementor/widgets/icon-box-widget.php:133
+#: elementor/widgets/icon-box-widget.php:218
+#: elementor/widgets/image-widget.php:149
+#: elementor/widgets/image-widget.php:343
+#: elementor/widgets/image-widget.php:542
+#: elementor/widgets/image-widget.php:587 elementor/widgets/info-widget.php:107
+#: elementor/widgets/info-widget.php:139
+#: elementor/widgets/package-widget.php:115
+#: elementor/widgets/package-widget.php:150
+#: elementor/widgets/package-widget.php:182
+#: elementor/widgets/package-widget.php:235
+#: elementor/widgets/package-widget.php:288
+#: elementor/widgets/package-widget.php:346
+#: elementor/widgets/project-widget.php:114
+#: elementor/widgets/project-widget.php:134
+#: elementor/widgets/project-widget.php:159
+#: elementor/widgets/project-widget.php:198
+#: elementor/widgets/service-icon-box.php:54
+#: elementor/widgets/service-widget.php:106
+#: elementor/widgets/service-widget.php:168
+#: elementor/widgets/service-widget.php:254
+#: elementor/widgets/service-widget.php:308
+#: elementor/widgets/slider-widget.php:249
+#: elementor/widgets/slider-widget.php:291
+#: elementor/widgets/slider-widget.php:333
+#: elementor/widgets/slider-widget.php:375
+#: elementor/widgets/slider-widget.php:557
+#: elementor/widgets/team-widget.php:167 elementor/widgets/team-widget.php:201
+#: elementor/widgets/team-widget.php:240
+#: elementor/widgets/testimonial-widget.php:87
+#: elementor/widgets/testimonial-widget.php:124
+#: elementor/widgets/testimonial-widget.php:151
+#: elementor/widgets/testimonial-widget.php:185
+#: elementor/widgets/text-widget.php:67 elementor/widgets/title-widget.php:89
+#: elementor/widgets/title-widget.php:146
+#: elementor/widgets/title-widget.php:187
+#: elementor/widgets/work-process-widget.php:69
+#: elementor/widgets/work-process-widget.php:166
+#: elementor/widgets/work-process-widget.php:205
+#: elementor/widgets/work-process-widget.php:237
+msgid "Padding"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:101
+#: elementor/widgets/accordian-widget.php:140
+#: elementor/widgets/author-meta.php:66 elementor/widgets/author-meta.php:136
+#: elementor/widgets/author-meta.php:178 elementor/widgets/blog-widget.php:86
+#: elementor/widgets/blog-widget.php:120 elementor/widgets/blog-widget.php:181
+#: elementor/widgets/blog-widget.php:236 elementor/widgets/blog-widget.php:277
+#: elementor/widgets/blog-widget.php:311 elementor/widgets/button-widget.php:80
+#: elementor/widgets/call-to-action.php:146
+#: elementor/widgets/call-to-action.php:171
+#: elementor/widgets/call-to-action.php:210
+#: elementor/widgets/call-to-action.php:251
+#: elementor/widgets/client-carousel.php:134
+#: elementor/widgets/client-carousel.php:157
+#: elementor/widgets/counter-box.php:113 elementor/widgets/counter-box.php:179
+#: elementor/widgets/counter-box.php:211
+#: elementor/widgets/counter-list-widget.php:46
+#: elementor/widgets/counter-list-widget.php:108
+#: elementor/widgets/icon-box-widget.php:109
+#: elementor/widgets/icon-box-widget.php:142
+#: elementor/widgets/icon-box-widget.php:227
+#: elementor/widgets/image-widget.php:158
+#: elementor/widgets/image-widget.php:352
+#: elementor/widgets/image-widget.php:551
+#: elementor/widgets/image-widget.php:596 elementor/widgets/info-widget.php:114
+#: elementor/widgets/info-widget.php:146
+#: elementor/widgets/package-widget.php:122
+#: elementor/widgets/package-widget.php:157
+#: elementor/widgets/package-widget.php:189
+#: elementor/widgets/package-widget.php:242
+#: elementor/widgets/package-widget.php:295
+#: elementor/widgets/package-widget.php:355
+#: elementor/widgets/project-widget.php:166
+#: elementor/widgets/project-widget.php:205
+#: elementor/widgets/service-icon-box.php:61
+#: elementor/widgets/service-widget.php:115
+#: elementor/widgets/service-widget.php:177
+#: elementor/widgets/service-widget.php:263
+#: elementor/widgets/service-widget.php:317
+#: elementor/widgets/slider-widget.php:258
+#: elementor/widgets/slider-widget.php:300
+#: elementor/widgets/slider-widget.php:342
+#: elementor/widgets/slider-widget.php:384
+#: elementor/widgets/slider-widget.php:566
+#: elementor/widgets/team-widget.php:174 elementor/widgets/team-widget.php:208
+#: elementor/widgets/team-widget.php:247
+#: elementor/widgets/testimonial-widget.php:95
+#: elementor/widgets/testimonial-widget.php:132
+#: elementor/widgets/testimonial-widget.php:159
+#: elementor/widgets/testimonial-widget.php:193
+#: elementor/widgets/text-widget.php:76 elementor/widgets/title-widget.php:100
+#: elementor/widgets/title-widget.php:157
+#: elementor/widgets/title-widget.php:198
+#: elementor/widgets/work-process-widget.php:76
+#: elementor/widgets/work-process-widget.php:136
+#: elementor/widgets/work-process-widget.php:173
+#: elementor/widgets/work-process-widget.php:212
+#: elementor/widgets/work-process-widget.php:244
+msgid "Margin"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:109
+#: elementor/widgets/accordian-widget.php:148
+#: elementor/widgets/author-meta.php:146 elementor/widgets/author-meta.php:188
+#: elementor/widgets/blog-widget.php:135 elementor/widgets/blog-widget.php:189
+#: elementor/widgets/blog-widget.php:258 elementor/widgets/blog-widget.php:292
+#: elementor/widgets/blog-widget.php:333
+#: elementor/widgets/button-widget.php:162
+#: elementor/widgets/button-widget.php:172
+#: elementor/widgets/button-widget.php:233
+#: elementor/widgets/button-widget.php:243
+#: elementor/widgets/call-to-action.php:189
+#: elementor/widgets/call-to-action.php:228
+#: elementor/widgets/call-to-action.php:303
+#: elementor/widgets/call-to-action.php:310
+#: elementor/widgets/call-to-action.php:363
+#: elementor/widgets/call-to-action.php:370
+#: elementor/widgets/counter-box.php:193 elementor/widgets/counter-box.php:225
+#: elementor/widgets/counter-list-widget.php:123
+#: elementor/widgets/icon-box-widget.php:237
+#: elementor/widgets/image-widget.php:570
+#: elementor/widgets/image-widget.php:615 elementor/widgets/info-widget.php:129
+#: elementor/widgets/info-widget.php:175
+#: elementor/widgets/package-widget.php:172
+#: elementor/widgets/package-widget.php:204
+#: elementor/widgets/package-widget.php:257
+#: elementor/widgets/package-widget.php:310
+#: elementor/widgets/package-widget.php:426
+#: elementor/widgets/package-widget.php:472
+#: elementor/widgets/project-widget.php:174
+#: elementor/widgets/project-widget.php:213
+#: elementor/widgets/service-widget.php:291
+#: elementor/widgets/service-widget.php:345
+#: elementor/widgets/slider-widget.php:319
+#: elementor/widgets/slider-widget.php:361
+#: elementor/widgets/slider-widget.php:403
+#: elementor/widgets/slider-widget.php:604
+#: elementor/widgets/slider-widget.php:651
+#: elementor/widgets/team-widget.php:230 elementor/widgets/team-widget.php:269
+#: elementor/widgets/testimonial-widget.php:175
+#: elementor/widgets/testimonial-widget.php:209
+#: elementor/widgets/text-widget.php:95 elementor/widgets/title-widget.php:139
+#: elementor/widgets/work-process-widget.php:149
+#: elementor/widgets/work-process-widget.php:195
+#: elementor/widgets/work-process-widget.php:227
+#: elementor/widgets/work-process-widget.php:266
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:113
+#: elementor/widgets/accordian-widget.php:152
+#: elementor/widgets/accordian-widget.php:180
+#: elementor/widgets/author-meta.php:152 elementor/widgets/author-meta.php:194
+#: elementor/widgets/blog-widget.php:127 elementor/widgets/blog-widget.php:195
+#: elementor/widgets/blog-widget.php:243 elementor/widgets/blog-widget.php:284
+#: elementor/widgets/blog-widget.php:318
+#: elementor/widgets/button-widget.php:142
+#: elementor/widgets/button-widget.php:200
+#: elementor/widgets/call-to-action.php:179
+#: elementor/widgets/call-to-action.php:218
+#: elementor/widgets/call-to-action.php:286
+#: elementor/widgets/call-to-action.php:332
+#: elementor/widgets/counter-box.php:139 elementor/widgets/counter-box.php:186
+#: elementor/widgets/counter-box.php:218
+#: elementor/widgets/counter-list-widget.php:83
+#: elementor/widgets/counter-list-widget.php:91
+#: elementor/widgets/counter-list-widget.php:115
+#: elementor/widgets/icon-box-widget.php:151
+#: elementor/widgets/icon-box-widget.php:243
+#: elementor/widgets/image-widget.php:560
+#: elementor/widgets/image-widget.php:605 elementor/widgets/info-widget.php:121
+#: elementor/widgets/info-widget.php:153
+#: elementor/widgets/package-widget.php:164
+#: elementor/widgets/package-widget.php:196
+#: elementor/widgets/package-widget.php:249
+#: elementor/widgets/package-widget.php:302
+#: elementor/widgets/package-widget.php:409
+#: elementor/widgets/package-widget.php:441
+#: elementor/widgets/project-widget.php:178
+#: elementor/widgets/project-widget.php:217
+#: elementor/widgets/project-widget.php:275
+#: elementor/widgets/project-widget.php:357
+#: elementor/widgets/service-widget.php:204
+#: elementor/widgets/service-widget.php:272
+#: elementor/widgets/service-widget.php:326
+#: elementor/widgets/slider-widget.php:309
+#: elementor/widgets/slider-widget.php:351
+#: elementor/widgets/slider-widget.php:393
+#: elementor/widgets/slider-widget.php:587
+#: elementor/widgets/slider-widget.php:633
+#: elementor/widgets/slider-widget.php:726
+#: elementor/widgets/social-icon-widget.php:124
+#: elementor/widgets/social-icon-widget.php:149
+#: elementor/widgets/team-widget.php:126 elementor/widgets/team-widget.php:215
+#: elementor/widgets/team-widget.php:254 elementor/widgets/text-widget.php:85
+#: elementor/widgets/title-widget.php:168
+#: elementor/widgets/title-widget.php:209
+#: elementor/widgets/work-process-widget.php:153
+#: elementor/widgets/work-process-widget.php:180
+#: elementor/widgets/work-process-widget.php:219
+#: elementor/widgets/work-process-widget.php:251
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:120
+msgid "Active Color"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:161
+#: elementor/widgets/counter-box.php:89 elementor/widgets/counter-box.php:132
+#: elementor/widgets/icon-box-widget.php:62
+#: elementor/widgets/icon-box-widget.php:127
+#: elementor/widgets/project-widget.php:226
+#: elementor/widgets/service-details.php:32
+#: elementor/widgets/service-icon-box.php:41
+#: elementor/widgets/service-icon-widget.php:29
+#: elementor/widgets/service-widget.php:162
+#: inc/widget-option/techlon-contact-widget.php:28
+#: inc/widget-option/techlon-contact-widget.php:55
+#: inc/widget-option/techlon-contact-widget.php:82
+#: inc/widget-option/techlon-cta-widget.php:9
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/accordian-widget.php:165
+#: elementor/widgets/counter-box.php:146
+#: elementor/widgets/project-widget.php:260
+#: elementor/widgets/project-widget.php:342
+#: elementor/widgets/service-widget.php:187
+#: elementor/widgets/team-widget.php:95
+msgid "Size"
+msgstr ""
+
+#: elementor/widgets/author-meta.php:8
+msgid "Techlon Author Meta"
+msgstr ""
+
+#: elementor/widgets/author-meta.php:20
+msgid "Techlon Author"
+msgstr ""
+
+#: elementor/widgets/author-meta.php:26 elementor/widgets/floating-image.php:26
+#: elementor/widgets/image-widget.php:49 elementor/widgets/image-widget.php:58
+msgid "Select Image"
+msgstr ""
+
+#: elementor/widgets/author-meta.php:35
+msgid "Author Name"
+msgstr ""
+
+#: elementor/widgets/author-meta.php:51
+#: elementor/widgets/client-carousel.php:30
+#: elementor/widgets/client-carousel.php:143
+#: elementor/widgets/image-widget.php:20 elementor/widgets/image-widget.php:122
+#: elementor/widgets/testimonial-widget.php:34
+#: elementor/widgets/testimonial-widget.php:120
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/author-meta.php:75
+#: elementor/widgets/client-carousel.php:218
+#: elementor/widgets/counter-list-widget.php:53
+#: elementor/widgets/floating-image.php:43
+#: elementor/widgets/project-widget.php:230
+#: elementor/widgets/project-widget.php:312
+#: elementor/widgets/slider-widget.php:681
+#: elementor/widgets/social-icon-widget.php:80
+#: elementor/widgets/team-widget.php:65 elementor/widgets/video-widget.php:53
+#: elementor/widgets/work-process-widget.php:106
+msgid "Width"
+msgstr ""
+
+#: elementor/widgets/author-meta.php:97
+#: elementor/widgets/client-carousel.php:234
+#: elementor/widgets/counter-list-widget.php:68
+#: elementor/widgets/floating-image.php:65
+#: elementor/widgets/project-widget.php:245
+#: elementor/widgets/project-widget.php:327
+#: elementor/widgets/slider-widget.php:696
+#: elementor/widgets/social-icon-widget.php:95
+#: elementor/widgets/team-widget.php:80
+#: elementor/widgets/work-process-widget.php:121
+msgid "Height"
+msgstr ""
+
+#: elementor/widgets/author-meta.php:121
+#: elementor/widgets/testimonial-widget.php:41
+#: elementor/widgets/testimonial-widget.php:147
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/author-meta.php:163 elementor/widgets/team-widget.php:236
+#: elementor/widgets/testimonial-widget.php:46
+#: elementor/widgets/testimonial-widget.php:181
+msgid "Designation"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:8
+msgid "Techlon Blog"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:19
+msgid "Blog"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:23
+#: elementor/widgets/client-carousel.php:49
+#: elementor/widgets/counter-box.php:25 elementor/widgets/project-widget.php:23
+#: elementor/widgets/service-widget.php:25
+#: elementor/widgets/testimonial-widget.php:23
+#: elementor/widgets/video-widget.php:23
+msgid "Choose Style"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:26 elementor/widgets/button-widget.php:28
+#: elementor/widgets/call-to-action.php:26
+#: elementor/widgets/client-carousel.php:52
+#: elementor/widgets/counter-box.php:28
+#: elementor/widgets/icon-box-widget.php:36
+#: elementor/widgets/image-widget.php:29
+#: elementor/widgets/project-widget.php:26
+#: elementor/widgets/service-widget.php:28
+#: elementor/widgets/testimonial-widget.php:26
+#: elementor/widgets/video-widget.php:26
+msgid "Style One"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:27 elementor/widgets/button-widget.php:29
+#: elementor/widgets/call-to-action.php:27
+#: elementor/widgets/client-carousel.php:53
+#: elementor/widgets/counter-box.php:29
+#: elementor/widgets/icon-box-widget.php:37
+#: elementor/widgets/image-widget.php:30
+#: elementor/widgets/project-widget.php:27
+#: elementor/widgets/service-widget.php:29
+#: elementor/widgets/testimonial-widget.php:27
+#: elementor/widgets/video-widget.php:27
+msgid "Style Two"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:32 elementor/widgets/project-widget.php:32
+#: elementor/widgets/service-widget.php:37
+msgid "Posts Per Page"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:34 elementor/widgets/project-widget.php:34
+#: elementor/widgets/service-widget.php:39
+msgid "Leave Empty or type \"-1\" to show all posts"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:38
+msgid "Show Image"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:43
+msgid "Show Date"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:48
+msgid "Show Category"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:53
+msgid "Show Title"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:58
+msgid "Show Excerpt"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:63
+msgid "Show Read More Button"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:68
+msgid "Read More Text"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:75
+#: elementor/widgets/project-widget.php:130
+#: elementor/widgets/team-widget.php:163
+#: inc/widget-option/techlon-about-widget.php:28
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:101
+#: elementor/widgets/button-widget.php:182
+#: elementor/widgets/button-widget.php:253
+#: elementor/widgets/call-to-action.php:317
+#: elementor/widgets/call-to-action.php:377
+#: elementor/widgets/image-widget.php:385
+#: elementor/widgets/service-widget.php:154
+#: elementor/widgets/slider-widget.php:618
+#: elementor/widgets/slider-widget.php:665
+#: elementor/widgets/title-widget.php:121
+msgid "Box Shadow"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:109
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:141
+#: elementor/widgets/client-carousel.php:249
+#: elementor/widgets/package-widget.php:314
+#: elementor/widgets/video-widget.php:83
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:148
+#: elementor/widgets/icon-box-widget.php:169
+#: elementor/widgets/package-widget.php:321
+#: elementor/widgets/slider-widget.php:711
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:170
+msgid "Category"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:202 elementor/widgets/blog-widget.php:250
+#: elementor/widgets/blog-widget.php:325
+#: elementor/widgets/icon-box-widget.php:252
+#: elementor/widgets/project-widget.php:185
+#: elementor/widgets/project-widget.php:289
+#: elementor/widgets/project-widget.php:371
+#: elementor/widgets/service-widget.php:213
+#: elementor/widgets/service-widget.php:281
+#: elementor/widgets/service-widget.php:335
+#: elementor/widgets/team-widget.php:135 elementor/widgets/team-widget.php:222
+#: elementor/widgets/team-widget.php:261
+#: elementor/widgets/work-process-widget.php:187
+#: elementor/widgets/work-process-widget.php:258
+msgid "Hover Color"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:216
+#: elementor/widgets/client-carousel.php:169
+#: elementor/widgets/project-widget.php:296
+#: elementor/widgets/project-widget.php:378
+#: elementor/widgets/service-icon-box.php:73
+#: elementor/widgets/service-widget.php:234
+#: elementor/widgets/team-widget.php:153 elementor/widgets/team-widget.php:188
+msgid "Hover Background"
+msgstr ""
+
+#: elementor/widgets/blog-widget.php:266
+msgid "Excerpt"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:8 elementor/widgets/button-widget.php:20
+msgid "Techlon Button"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:25
+#: elementor/widgets/button-widget.php:65
+#: elementor/widgets/call-to-action.php:236
+#: elementor/widgets/package-widget.php:340
+#: elementor/widgets/slider-widget.php:551
+msgid "Button Style"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:35
+#: elementor/widgets/call-to-action.php:68
+#: elementor/widgets/package-widget.php:46
+#: elementor/widgets/slider-widget.php:98
+msgid "Button Text"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:52
+#: elementor/widgets/call-to-action.php:84
+#: elementor/widgets/package-widget.php:103
+msgid "Simple Hover"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:53
+#: elementor/widgets/call-to-action.php:85
+#: elementor/widgets/package-widget.php:104
+msgid "Gradient Hover"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:89
+#: elementor/widgets/call-to-action.php:118
+#: elementor/widgets/image-widget.php:127
+#: elementor/widgets/package-widget.php:208
+#: elementor/widgets/package-widget.php:261
+#: elementor/widgets/package-widget.php:364
+#: elementor/widgets/text-widget.php:40 elementor/widgets/title-widget.php:63
+msgid "Alignment"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:93
+#: elementor/widgets/image-widget.php:267
+#: elementor/widgets/image-widget.php:466
+#: elementor/widgets/package-widget.php:368
+#: elementor/widgets/slider-widget.php:484
+msgid "From Left"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:97
+#: elementor/widgets/package-widget.php:372
+msgid "From Center"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:101
+#: elementor/widgets/image-widget.php:271
+#: elementor/widgets/image-widget.php:470
+#: elementor/widgets/package-widget.php:376
+#: elementor/widgets/slider-widget.php:488
+msgid "From Right"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:113
+#: elementor/widgets/call-to-action.php:260
+#: elementor/widgets/package-widget.php:387
+msgid "Button Width"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:117
+#: elementor/widgets/call-to-action.php:264
+#: elementor/widgets/image-widget.php:171
+#: elementor/widgets/package-widget.php:391
+msgid "Full Width"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:137
+#: elementor/widgets/call-to-action.php:281
+#: elementor/widgets/package-widget.php:405
+#: elementor/widgets/slider-widget.php:582
+#: elementor/widgets/social-icon-widget.php:121
+msgid "Normal"
+msgstr ""
+
+#: elementor/widgets/button-widget.php:194
+#: elementor/widgets/call-to-action.php:326
+#: elementor/widgets/package-widget.php:435
+#: elementor/widgets/slider-widget.php:627
+#: elementor/widgets/social-icon-widget.php:145
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:8
+msgid "Techlon Call to Action"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:19
+msgid "Call to Action"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:23
+msgid "CTA Style"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:44
+msgid "Need Any Technology Solution"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:47
+msgid "Title Background"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:55
+msgid ""
+"To use this background image in title, you must wrap your desired content in "
+"<span> element"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:58
+msgid "Overlay Background"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:81
+msgid "Button Hover Style"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:91
+msgid "Button Position"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:95
+#: elementor/widgets/icon-box-widget.php:197
+msgid "Bottom"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:99
+#: elementor/widgets/call-to-action.php:130
+#: elementor/widgets/package-widget.php:220
+#: elementor/widgets/package-widget.php:273
+#: elementor/widgets/text-widget.php:52 elementor/widgets/title-widget.php:75
+msgid "Right"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:111
+msgid "Call to Action Box"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:122
+#: elementor/widgets/image-widget.php:131
+#: elementor/widgets/image-widget.php:139
+#: elementor/widgets/package-widget.php:212
+#: elementor/widgets/package-widget.php:265
+#: elementor/widgets/text-widget.php:44 elementor/widgets/title-widget.php:67
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/call-to-action.php:126
+#: elementor/widgets/icon-box-widget.php:193
+#: elementor/widgets/image-widget.php:135
+#: elementor/widgets/package-widget.php:216
+#: elementor/widgets/package-widget.php:269
+#: elementor/widgets/text-widget.php:48 elementor/widgets/title-widget.php:71
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:8
+#: elementor/widgets/client-carousel.php:19
+msgid "Techlon Client Carousel"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:25
+msgid "Client Name"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:27
+#: elementor/widgets/client-carousel.php:64
+msgid "Envato"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:37
+msgid "Enable Link"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:58
+msgid "Client Items"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:72
+#: elementor/widgets/slider-widget.php:204
+msgid "Slider Settings"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:78
+#: elementor/widgets/slider-widget.php:210
+msgid "Slider Loop"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:80
+#: elementor/widgets/client-carousel.php:89
+#: elementor/widgets/slider-widget.php:212
+#: elementor/widgets/slider-widget.php:221
+msgid "Enable"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:81
+#: elementor/widgets/client-carousel.php:90
+#: elementor/widgets/slider-widget.php:213
+#: elementor/widgets/slider-widget.php:222
+msgid "Disable"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:87
+#: elementor/widgets/slider-widget.php:219
+msgid "Slider Autoplay"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:96
+#: elementor/widgets/slider-widget.php:228
+msgid "Slider Autoplay Timeout"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:110
+msgid "Carousel Style"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:178
+#: elementor/widgets/slider-widget.php:740
+msgid "Opacity"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:193
+#: elementor/widgets/slider-widget.php:755
+msgid "Hover Opacity"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:210
+msgid "Carousel Nav"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:256
+msgid "BG Color"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:263
+msgid "Hover Icon Color"
+msgstr ""
+
+#: elementor/widgets/client-carousel.php:270
+msgid "Hover BG Color"
+msgstr ""
+
+#: elementor/widgets/counter-box.php:8
+msgid "Techlon Counter Box"
+msgstr ""
+
+#: elementor/widgets/counter-box.php:38 elementor/widgets/counter-box.php:69
+#: elementor/widgets/counter-box.php:168
+#: elementor/widgets/counter-list-widget.php:23
+#: elementor/widgets/counter-list-widget.php:35
+#: elementor/widgets/image-widget.php:81
+#: elementor/widgets/progress-bar-widget.php:23
+#: elementor/widgets/work-process-widget.php:23
+#: elementor/widgets/work-process-widget.php:102
+msgid "Number"
+msgstr ""
+
+#: elementor/widgets/counter-box.php:47 elementor/widgets/counter-box.php:59
+msgid "Business Interogation"
+msgstr ""
+
+#: elementor/widgets/counter-box.php:52
+msgid "Counte Box Items"
+msgstr ""
+
+#: elementor/widgets/counter-box.php:102
+msgid "Counter Box"
+msgstr ""
+
+#: elementor/widgets/counter-list-widget.php:8
+#: elementor/widgets/counter-list-widget.php:19
+msgid "Techlon Counter List"
+msgstr ""
+
+#: elementor/widgets/counter-list-widget.php:25
+msgid "01"
+msgstr ""
+
+#: elementor/widgets/counter-list-widget.php:30
+msgid "Going Above and Beyond"
+msgstr ""
+
+#: elementor/widgets/floating-image.php:8
+#: elementor/widgets/floating-image.php:20
+msgid "Techlon Floating Image"
+msgstr ""
+
+#: elementor/widgets/floating-image.php:37
+msgid "Image Style"
+msgstr ""
+
+#: elementor/widgets/icon-box-widget.php:12
+#: elementor/widgets/icon-box-widget.php:27
+msgid "Techlon Icon Box"
+msgstr ""
+
+#: elementor/widgets/icon-box-widget.php:33
+msgid "Choose Icon Box Style"
+msgstr ""
+
+#: elementor/widgets/icon-box-widget.php:38
+#: elementor/widgets/image-widget.php:31
+#: elementor/widgets/service-widget.php:30
+msgid "Style Three"
+msgstr ""
+
+#: elementor/widgets/icon-box-widget.php:47
+#: elementor/widgets/service-icon-widget.php:43
+#: elementor/widgets/service-icon-widget.php:60
+msgid "IT Consultant"
+msgstr ""
+
+#: elementor/widgets/icon-box-widget.php:71
+msgid "Enable link"
+msgstr ""
+
+#: elementor/widgets/icon-box-widget.php:94
+msgid "Icon Box"
+msgstr ""
+
+#: elementor/widgets/icon-box-widget.php:160
+#: elementor/widgets/project-widget.php:282
+#: elementor/widgets/project-widget.php:364
+#: elementor/widgets/service-widget.php:222
+#: elementor/widgets/slider-widget.php:733
+#: elementor/widgets/social-icon-widget.php:131
+#: elementor/widgets/social-icon-widget.php:156
+#: elementor/widgets/team-widget.php:144
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/icon-box-widget.php:185
+msgid "Position"
+msgstr ""
+
+#: elementor/widgets/icon-box-widget.php:189
+msgid "Top"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:8
+msgid "Techlon Image"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:26
+msgid "Choose Image Style"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:32
+#: elementor/widgets/service-widget.php:31
+msgid "Style Four"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:33
+msgid "Style Five"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:34
+msgid "Style Six"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:40
+msgid "Enable Background"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:69
+msgid "Caption Settings"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:75
+msgid "Enable Caption"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:91
+msgid "Prefix"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:100
+msgid "Postfix"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:167
+msgid "Image Width"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:183
+msgid "Second Image"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:193
+#: elementor/widgets/image-widget.php:392
+#: elementor/widgets/slider-widget.php:410
+msgid "Position Top/Bottom"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:197
+#: elementor/widgets/image-widget.php:396
+#: elementor/widgets/slider-widget.php:414
+msgid "From Top"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:201
+#: elementor/widgets/image-widget.php:400
+#: elementor/widgets/slider-widget.php:418
+msgid "From Bottom"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:211
+#: elementor/widgets/image-widget.php:410
+#: elementor/widgets/slider-widget.php:428
+msgid "Position From Top"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:237
+#: elementor/widgets/image-widget.php:436
+#: elementor/widgets/slider-widget.php:454
+msgid "Position From Bottom"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:263
+#: elementor/widgets/image-widget.php:462
+#: elementor/widgets/slider-widget.php:480
+msgid "Position Left/Right"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:281
+#: elementor/widgets/image-widget.php:480
+#: elementor/widgets/slider-widget.php:498
+msgid "Position From Left"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:307
+#: elementor/widgets/image-widget.php:506
+#: elementor/widgets/slider-widget.php:524
+msgid "Position From Right"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:361
+#: elementor/widgets/social-icon-widget.php:110
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:533
+msgid "Caption Number"
+msgstr ""
+
+#: elementor/widgets/image-widget.php:578
+msgid "Caption Text"
+msgstr ""
+
+#: elementor/widgets/info-widget.php:8
+msgid "Techlon Info"
+msgstr ""
+
+#: elementor/widgets/info-widget.php:19
+msgid "Social Info"
+msgstr ""
+
+#: elementor/widgets/info-widget.php:23
+msgid "Select Type"
+msgstr ""
+
+#: elementor/widgets/info-widget.php:50
+msgid "Local: "
+msgstr ""
+
+#: elementor/widgets/info-widget.php:53
+msgid "Phone Number"
+msgstr ""
+
+#: elementor/widgets/info-widget.php:55
+msgid "222 999 888 "
+msgstr ""
+
+#: elementor/widgets/info-widget.php:58 elementor/widgets/info-widget.php:84
+msgid "Phone List"
+msgstr ""
+
+#: elementor/widgets/info-widget.php:64
+msgid "Local"
+msgstr ""
+
+#: elementor/widgets/info-widget.php:68
+msgid "Mobile"
+msgstr ""
+
+#: elementor/widgets/info-widget.php:79
+msgid "E-mail"
+msgstr ""
+
+#: elementor/widgets/info-widget.php:81
+msgid "needhelp@company.com "
+msgstr ""
+
+#: elementor/widgets/info-widget.php:160
+msgid "Link Color"
+msgstr ""
+
+#: elementor/widgets/info-widget.php:167
+msgid "Link Hover Color"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:8
+#: elementor/widgets/package-widget.php:19
+msgid "Techlon Package"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:28
+msgid "Currency"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:30
+msgid "$"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:33
+#: elementor/widgets/package-widget.php:178
+msgid "Price"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:38
+msgid "54.99"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:41
+#: elementor/widgets/package-widget.php:231
+msgid "Time"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:43
+msgid "Monthly"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:48
+msgid "Get Started"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:72
+msgid "Package Features"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:81
+msgid "Managment & Marketing"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:85
+msgid "24/7 Customer Support"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:89
+msgid "Strategy & Research"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:93
+msgid "SEO Optimization"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:111
+msgid "Package Card"
+msgstr ""
+
+#: elementor/widgets/package-widget.php:284
+msgid "Feature List"
+msgstr ""
+
+#: elementor/widgets/progress-bar-widget.php:8
+msgid "Techlon Progress Bar"
+msgstr ""
+
+#: elementor/widgets/progress-bar-widget.php:19
+msgid "Progress Bar"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:8
+msgid "Techlon Project"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:19 inc/custom-post-type.php:42
+#: inc/custom-post-type.php:43 inc/custom-post-type.php:44
+#: inc/custom-post-type.php:62
+msgid "Project"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:38
+msgid "Enable Slider"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:46
+#: elementor/widgets/service-widget.php:52
+msgid "Enable Title"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:51
+msgid "Enable Category"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:56
+msgid "Enable Big Image"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:59
+msgid ""
+"Enable this to add Big image in slider if you have selected for the "
+"particular post"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:64
+#: elementor/widgets/service-widget.php:71
+msgid "Slider Options"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:72
+msgid "Item per screen"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:75 elementor/widgets/team-widget.php:33
+#: elementor/widgets/testimonial-widget.php:61
+msgid "3"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:76 elementor/widgets/team-widget.php:34
+#: elementor/widgets/testimonial-widget.php:62
+msgid "4"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:81
+msgid "Enable Overflow"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:86
+#: elementor/widgets/service-widget.php:77
+msgid "Enable Loop"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:91
+msgid "Enable Nav Buttons"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:96
+#: elementor/widgets/service-widget.php:83
+msgid "Enable Autoplay"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:101
+#: elementor/widgets/service-widget.php:89
+msgid "Autoplay Timing"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:110
+#: elementor/widgets/service-widget.php:100
+#: elementor/widgets/testimonial-widget.php:83
+msgid "Card"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:121
+#: elementor/widgets/project-widget.php:141
+msgid "margin"
+msgstr ""
+
+#: elementor/widgets/project-widget.php:305
+msgid "Navigation"
+msgstr ""
+
+#: elementor/widgets/register-icon.php:56 inc/techlon-icons.php:7
+msgid "Techlon Icons"
+msgstr ""
+
+#: elementor/widgets/service-details.php:12
+msgid "Techlon Service Details"
+msgstr ""
+
+#: elementor/widgets/service-details.php:26
+msgid "Service Details"
+msgstr ""
+
+#: elementor/widgets/service-details.php:39
+#: elementor/widgets/service-details.php:51
+msgid "Praesent efficitur quam sit amet"
+msgstr ""
+
+#: elementor/widgets/service-details.php:46
+msgid "Service Details Items"
+msgstr ""
+
+#: elementor/widgets/service-icon-box.php:8
+msgid "Techlon Service Icon Box"
+msgstr ""
+
+#: elementor/widgets/service-icon-box.php:19
+#: elementor/widgets/service-icon-box.php:50
+msgid "Service Icon Box"
+msgstr ""
+
+#: elementor/widgets/service-icon-box.php:25
+msgid "Quality Setvice"
+msgstr ""
+
+#: elementor/widgets/service-icon-box.php:84
+msgid "Background Overlay"
+msgstr ""
+
+#: elementor/widgets/service-icon-widget.php:11
+msgid "Techlon Service Icon Widget"
+msgstr ""
+
+#: elementor/widgets/service-icon-widget.php:24
+msgid "Service Icon Widget"
+msgstr ""
+
+#: elementor/widgets/service-icon-widget.php:38
+msgid "There are many of of lorem Ipsum, but the majori have suffered."
+msgstr ""
+
+#: elementor/widgets/service-icon-widget.php:54
+msgid "Service Item"
+msgstr ""
+
+#: elementor/widgets/service-widget.php:8
+msgid "Techlon Service"
+msgstr ""
+
+#: elementor/widgets/service-widget.php:20 inc/custom-post-type.php:10
+#: inc/custom-post-type.php:11 inc/custom-post-type.php:12
+#: inc/custom-post-type.php:30
+msgid "Service"
+msgstr ""
+
+#: elementor/widgets/service-widget.php:45
+msgid "Enable Icon"
+msgstr ""
+
+#: elementor/widgets/service-widget.php:59
+msgid "Enable Excerpt"
+msgstr ""
+
+#: elementor/widgets/service-widget.php:131
+msgid "Background Hover Color"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:8
+msgid "Techlon Slider"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:28
+#: inc/widget-option/techlon-cta-widget.php:33
+msgid "Background Image"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:53
+#: elementor/widgets/slider-widget.php:369
+msgid "Floated Text"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:60
+msgid "Line Image"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:66
+msgid "Animation Image 1"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:72
+msgid "Animation Image 2"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:78
+msgid "Animation Image 3"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:84
+msgid "Enable Button"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:105
+#: elementor/widgets/slider-widget.php:243
+msgid "Slider Style"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:108
+msgid "One"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:109
+msgid "Two"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:110
+msgid "Three"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:117
+msgid "Slider Items"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:133
+#: elementor/widgets/social-icon-widget.php:25
+msgid "Social Name"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:135
+#: elementor/widgets/slider-widget.php:159
+#: elementor/widgets/social-icon-widget.php:27
+#: elementor/widgets/social-icon-widget.php:52
+#: inc/techlon-core-functions.php:75
+msgid "Twitter"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:145
+#: elementor/widgets/social-icon-widget.php:37
+msgid "Social Link"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:154
+msgid "Slider Socials"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:168
+#: elementor/widgets/social-icon-widget.php:57
+#: inc/techlon-core-functions.php:78
+msgid "Facebook"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:177
+#: elementor/widgets/social-icon-widget.php:62
+#: inc/techlon-core-functions.php:81
+msgid "Pinterest"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:186
+#: elementor/widgets/social-icon-widget.php:67
+msgid "Instagram"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:267
+msgid "Minimum Height"
+msgstr ""
+
+#: elementor/widgets/slider-widget.php:677
+msgid "Slider Nav Buttons"
+msgstr ""
+
+#: elementor/widgets/social-icon-widget.php:8
+msgid "Techlon Socail Icon"
+msgstr ""
+
+#: elementor/widgets/social-icon-widget.php:19
+msgid "Social Icons"
+msgstr ""
+
+#: elementor/widgets/social-icon-widget.php:46
+msgid "Social Items"
+msgstr ""
+
+#: elementor/widgets/team-widget.php:8
+msgid "Techlon Team"
+msgstr ""
+
+#: elementor/widgets/team-widget.php:19
+msgid "Team Members"
+msgstr ""
+
+#: elementor/widgets/team-widget.php:24
+msgid "Team Member Per Page"
+msgstr ""
+
+#: elementor/widgets/team-widget.php:26
+msgid "Leave Empty or type \"-1\" to show all Team Members"
+msgstr ""
+
+#: elementor/widgets/team-widget.php:30
+msgid "Team Members show in each row"
+msgstr ""
+
+#: elementor/widgets/team-widget.php:39
+msgid "Enable Image"
+msgstr ""
+
+#: elementor/widgets/team-widget.php:44
+msgid "Enable Social Links"
+msgstr ""
+
+#: elementor/widgets/team-widget.php:49
+msgid "Enable Name"
+msgstr ""
+
+#: elementor/widgets/team-widget.php:54
+msgid "Enable Designation"
+msgstr ""
+
+#: elementor/widgets/team-widget.php:61
+msgid "Socials"
+msgstr ""
+
+#: elementor/widgets/team-widget.php:110
+msgid "Inner Icon Size"
+msgstr ""
+
+#: elementor/widgets/testimonial-widget.php:8
+msgid "Techlon Testimonials"
+msgstr ""
+
+#: elementor/widgets/testimonial-widget.php:19
+msgid "Testimonials"
+msgstr ""
+
+#: elementor/widgets/testimonial-widget.php:43
+#: elementor/widgets/testimonial-widget.php:74
+msgid "Michael Rahul"
+msgstr ""
+
+#: elementor/widgets/testimonial-widget.php:48
+#: elementor/widgets/testimonial-widget.php:75
+msgid "UI - UX Designer"
+msgstr ""
+
+#: elementor/widgets/testimonial-widget.php:53
+msgid ""
+"On the other hand denounc with ghteo indignation and dislike men who so "
+"beguiled and demoralized the charms."
+msgstr ""
+
+#: elementor/widgets/testimonial-widget.php:56
+msgid "Ratings"
+msgstr ""
+
+#: elementor/widgets/testimonial-widget.php:59
+msgid "1"
+msgstr ""
+
+#: elementor/widgets/testimonial-widget.php:60
+msgid "2"
+msgstr ""
+
+#: elementor/widgets/testimonial-widget.php:63
+msgid "5"
+msgstr ""
+
+#: elementor/widgets/testimonial-widget.php:69
+msgid "Testimonial Items"
+msgstr ""
+
+#: elementor/widgets/testimonial-widget.php:108
+#: elementor/widgets/testimonial-widget.php:167
+#: elementor/widgets/testimonial-widget.php:201
+msgid "Hover Line Color"
+msgstr ""
+
+#: elementor/widgets/text-widget.php:8 elementor/widgets/text-widget.php:20
+msgid "Techlon Text Editor"
+msgstr ""
+
+#: elementor/widgets/text-widget.php:56
+msgid "Justify"
+msgstr ""
+
+#: elementor/widgets/title-widget.php:9 elementor/widgets/title-widget.php:21
+msgid "Techlon Title"
+msgstr ""
+
+#: elementor/widgets/title-widget.php:30
+msgid "Enter Title Here"
+msgstr ""
+
+#: elementor/widgets/title-widget.php:39
+msgid "Enter Tagline Here"
+msgstr ""
+
+#: elementor/widgets/title-widget.php:46
+msgid "Text White"
+msgstr ""
+
+#: elementor/widgets/title-widget.php:56
+msgid "Title Box"
+msgstr ""
+
+#: elementor/widgets/title-widget.php:131
+msgid "Main Title"
+msgstr ""
+
+#: elementor/widgets/title-widget.php:180
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/video-widget.php:8
+msgid "Techlon Video Popup"
+msgstr ""
+
+#: elementor/widgets/video-widget.php:19
+msgid "Techlon Video"
+msgstr ""
+
+#: elementor/widgets/video-widget.php:32
+msgid "Video Link"
+msgstr ""
+
+#: elementor/widgets/video-widget.php:49
+msgid "Video Button"
+msgstr ""
+
+#: elementor/widgets/video-widget.php:68
+msgid "height"
+msgstr ""
+
+#: elementor/widgets/video-widget.php:90
+msgid "Icon Background Color"
+msgstr ""
+
+#: elementor/widgets/video-widget.php:97
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elementor/widgets/video-widget.php:104
+msgid "Icon Hover Background"
+msgstr ""
+
+#: elementor/widgets/video-widget.php:111
+msgid "Icon Border Color"
+msgstr ""
+
+#: elementor/widgets/work-process-widget.php:8
+msgid "Techlon Work Process"
+msgstr ""
+
+#: elementor/widgets/work-process-widget.php:19
+msgid "Work Process"
+msgstr ""
+
+#: elementor/widgets/work-process-widget.php:39
+msgid "Enable Readmore Button"
+msgstr ""
+
+#: elementor/widgets/work-process-widget.php:44
+msgid "Readmore Button Text"
+msgstr ""
+
+#: elementor/widgets/work-process-widget.php:52
+msgid "Readmore Button Link"
+msgstr ""
+
+#: elementor/widgets/work-process-widget.php:65
+msgid "Work Process Card"
+msgstr ""
+
+#: elementor/widgets/work-process-widget.php:93
+msgid "Arrow Color"
+msgstr ""
+
+#: elementor/widgets/work-process-widget.php:233
+msgid "Readmore"
+msgstr ""
+
+#: inc/custom-post-type.php:13
+msgid "Add Service"
+msgstr ""
+
+#: inc/custom-post-type.php:14
+msgid "Add New Service"
+msgstr ""
+
+#: inc/custom-post-type.php:15
+msgid "All Service"
+msgstr ""
+
+#: inc/custom-post-type.php:16 inc/custom-post-type.php:17
+msgid "Edit Service"
+msgstr ""
+
+#: inc/custom-post-type.php:18
+msgid "Service Image"
+msgstr ""
+
+#: inc/custom-post-type.php:19
+msgid "Set Service Image"
+msgstr ""
+
+#: inc/custom-post-type.php:20
+msgid "Remove Service Image"
+msgstr ""
+
+#: inc/custom-post-type.php:21
+msgid "Use as Service Image"
+msgstr ""
+
+#: inc/custom-post-type.php:22
+msgid "No Service Found"
+msgstr ""
+
+#: inc/custom-post-type.php:23
+msgid "No Service Found in Trash"
+msgstr ""
+
+#: inc/custom-post-type.php:24
+msgid "Parent Service"
+msgstr ""
+
+#: inc/custom-post-type.php:45
+msgid "Add Project"
+msgstr ""
+
+#: inc/custom-post-type.php:46
+msgid "Add New Project"
+msgstr ""
+
+#: inc/custom-post-type.php:47
+msgid "All Project"
+msgstr ""
+
+#: inc/custom-post-type.php:48 inc/custom-post-type.php:49
+msgid "Edit Project"
+msgstr ""
+
+#: inc/custom-post-type.php:50
+msgid "Project Image"
+msgstr ""
+
+#: inc/custom-post-type.php:51
+msgid "Set Project Image"
+msgstr ""
+
+#: inc/custom-post-type.php:52
+msgid "Remove Project Image"
+msgstr ""
+
+#: inc/custom-post-type.php:53
+msgid "Use as Project Image"
+msgstr ""
+
+#: inc/custom-post-type.php:54
+msgid "No Project Found"
+msgstr ""
+
+#: inc/custom-post-type.php:55
+msgid "No Project Found in Trash"
+msgstr ""
+
+#: inc/custom-post-type.php:56
+msgid "Parent Project"
+msgstr ""
+
+#: inc/custom-post-type.php:72 inc/custom-post-type.php:74
+msgid "Project Categories"
+msgstr ""
+
+#: inc/custom-post-type.php:73
+msgid "Project Category"
+msgstr ""
+
+#: inc/custom-post-type.php:75
+msgid "All Categories"
+msgstr ""
+
+#: inc/custom-post-type.php:76
+msgid "&larr; Go to Project Categories"
+msgstr ""
+
+#: inc/custom-post-type.php:87 inc/custom-post-type.php:88
+#: inc/custom-post-type.php:89 inc/custom-post-type.php:107
+msgid "Team"
+msgstr ""
+
+#: inc/custom-post-type.php:90
+msgid "Add Team"
+msgstr ""
+
+#: inc/custom-post-type.php:91
+msgid "Add New Team"
+msgstr ""
+
+#: inc/custom-post-type.php:92
+msgid "All Team"
+msgstr ""
+
+#: inc/custom-post-type.php:93 inc/custom-post-type.php:94
+msgid "Edit Team"
+msgstr ""
+
+#: inc/custom-post-type.php:95
+msgid "Team Image"
+msgstr ""
+
+#: inc/custom-post-type.php:96
+msgid "Set Team Image"
+msgstr ""
+
+#: inc/custom-post-type.php:97
+msgid "Remove Team Image"
+msgstr ""
+
+#: inc/custom-post-type.php:98
+msgid "Use as Team Image"
+msgstr ""
+
+#: inc/custom-post-type.php:99
+msgid "No Team Found"
+msgstr ""
+
+#: inc/custom-post-type.php:100
+msgid "No Team Found in Trash"
+msgstr ""
+
+#: inc/custom-post-type.php:101
+msgid "Parent Team"
+msgstr ""
+
+#: inc/techlon-core-functions.php:8
+msgid "Footer 1"
+msgstr ""
+
+#: inc/techlon-core-functions.php:10 inc/techlon-core-functions.php:21
+#: inc/techlon-core-functions.php:32 inc/techlon-core-functions.php:43
+#: inc/techlon-core-functions.php:54
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/techlon-core-functions.php:19
+msgid "Footer 2"
+msgstr ""
+
+#: inc/techlon-core-functions.php:30
+msgid "Footer 3"
+msgstr ""
+
+#: inc/techlon-core-functions.php:41
+msgid "Footer 4"
+msgstr ""
+
+#: inc/techlon-core-functions.php:52
+msgid "Service Sidebar"
+msgstr ""
+
+#: inc/techlon-core-functions.php:84
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widget-option/techlon-about-widget.php:3
+msgid "Techlon About Widget"
+msgstr ""
+
+#: inc/widget-option/techlon-about-widget.php:5
+msgid "A Widget which shows info about site"
+msgstr ""
+
+#: inc/widget-option/techlon-about-widget.php:14
+msgid "Enable Logo"
+msgstr ""
+
+#: inc/widget-option/techlon-about-widget.php:20
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/widget-option/techlon-about-widget.php:30
+msgid ""
+"We work with a passion of taking challenges and creating new ones in "
+"advertising sector."
+msgstr ""
+
+#: inc/widget-option/techlon-about-widget.php:34
+msgid "Enable Social Links?"
+msgstr ""
+
+#: inc/widget-option/techlon-about-widget.php:37
+msgid ""
+"Manage your Social Links in Theme Options > Footer Options > General Footer "
+"Options"
+msgstr ""
+
+#: inc/widget-option/techlon-button-widget.php:3
+msgid "Techlon Downalod Button"
+msgstr ""
+
+#: inc/widget-option/techlon-button-widget.php:5
+msgid "A widget to put a download button for a file"
+msgstr ""
+
+#: inc/widget-option/techlon-button-widget.php:11
+msgid "Download our flyers"
+msgstr ""
+
+#: inc/widget-option/techlon-button-widget.php:17
+msgid "#"
+msgstr ""
+
+#: inc/widget-option/techlon-contact-widget.php:3
+msgid "Techlon Contact Widget"
+msgstr ""
+
+#: inc/widget-option/techlon-contact-widget.php:5
+msgid "A widget which shows contact details"
+msgstr ""
+
+#: inc/widget-option/techlon-contact-widget.php:11
+msgid "Contact"
+msgstr ""
+
+#: inc/widget-option/techlon-contact-widget.php:16
+msgid "Enable Phone No."
+msgstr ""
+
+#: inc/widget-option/techlon-contact-widget.php:23
+msgid "+ 88 ( 9800 ) 6802"
+msgstr ""
+
+#: inc/widget-option/techlon-contact-widget.php:37
+msgid "tel:88-9800-6802"
+msgstr ""
+
+#: inc/widget-option/techlon-contact-widget.php:43
+msgid "Enable Email"
+msgstr ""
+
+#: inc/widget-option/techlon-contact-widget.php:64
+msgid "mailto:needhelp@company.com"
+msgstr ""
+
+#: inc/widget-option/techlon-contact-widget.php:70
+msgid "Enable Address"
+msgstr ""
+
+#: inc/widget-option/techlon-contact-widget.php:77
+msgid "88 Broklyn Golden Road Street New York. USA"
+msgstr ""
+
+#: inc/widget-option/techlon-cta-widget.php:3
+msgid "Techlon CTA Widget"
+msgstr ""
+
+#: inc/widget-option/techlon-cta-widget.php:5
+msgid "A widget for call to action contact"
+msgstr ""
+
+#: inc/widget-option/techlon-cta-widget.php:17
+msgid "Have Tech Problems Contact Now"
+msgstr ""
+
+#: inc/widget-option/techlon-cta-widget.php:23
+msgid "Call Anytime"
+msgstr ""
+
+#: inc/widget-option/techlon-cta-widget.php:27
+msgid "Phone No"
+msgstr ""
+
+#: inc/widget-option/techlon-cta-widget.php:29
+msgid "+1-(246)333-0088"
+msgstr ""
+
+#: inc/widget-option/techlon-footer-services-widget.php:4
+msgid "Techlon Footer Service Widget"
+msgstr ""
+
+#: inc/widget-option/techlon-footer-services-widget.php:6
+msgid "A widget which shows Footer service "
+msgstr ""
+
+#: inc/widget-option/techlon-footer-services-widget.php:12
+#: inc/widget-option/techlon-menu-widget.php:11
+msgid "Services"
+msgstr ""
+
+#: inc/widget-option/techlon-footer-services-widget.php:17
+#: inc/widget-option/techlon-service-recent-post-widget.php:17
+#: inc/widget-option/techlon_recent_post_widget.php:16
+msgid "Post Count"
+msgstr ""
+
+#: inc/widget-option/techlon-menu-widget.php:3
+msgid "Techlon Menu Widget"
+msgstr ""
+
+#: inc/widget-option/techlon-menu-widget.php:5
+msgid "Add Links in your footer"
+msgstr ""
+
+#: inc/widget-option/techlon-menu-widget.php:15
+msgid "Choose Menu"
+msgstr ""
+
+#: inc/widget-option/techlon-service-recent-post-widget.php:4
+msgid "Techlon Service Recent Post Widget"
+msgstr ""
+
+#: inc/widget-option/techlon-service-recent-post-widget.php:6
+msgid "A widget which shows service recent posts"
+msgstr ""
+
+#: inc/widget-option/techlon-service-recent-post-widget.php:12
+msgid "All Services"
+msgstr ""
+
+#: inc/widget-option/techlon_recent_post_widget.php:3
+msgid "Techlon Recent Post Widget"
+msgstr ""
+
+#: inc/widget-option/techlon_recent_post_widget.php:5
+msgid "A widget which shows recent posts"
+msgstr ""
+
+#: inc/widget-option/techlon_recent_post_widget.php:11
+msgid "Latest Post"
+msgstr ""
+
+#: inc/widget-option/techlon_recent_post_widget.php:22
+msgid "Show Thumbnail Image?"
+msgstr ""
+
+#: inc/widget-option/techlon_recent_post_widget.php:28
+msgid "Show Comment Count?"
+msgstr ""
+
+#: inc/widget-option/techlon_recent_post_widget.php:62
+#, php-format
+msgid "%s Comments"
+msgstr ""

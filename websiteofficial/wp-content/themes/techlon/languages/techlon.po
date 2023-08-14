@@ -1,0 +1,1440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-12-21 18:50+0530\n"
+"PO-Revision-Date: 2022-12-21 18:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:111
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:52
+msgid "Primary"
+msgstr ""
+
+#: functions.php:53
+msgid "Footer"
+msgstr ""
+
+#: functions.php:109
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:111
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:912
+#: inc/class-tgm-plugin-activation.php:2618
+#: inc/class-tgm-plugin-activation.php:3646
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3559
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3562
+#, php-format
+msgid "An error occurred while installing %1$s: %2$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3564
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3568
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3570
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3571
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3573
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3576
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3578
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3579
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3581
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3586
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3586
+msgid "Hide Details"
+msgstr ""
+
+#: inc/techlon-functions.php:12
+msgid "© All Copyright 2022 by Techlon"
+msgstr ""
+
+#: inc/techlon-functions.php:15
+msgid "Search Results for: "
+msgstr ""
+
+#: inc/techlon-functions.php:16 inc/cs-framework/theme-options.php:1114
+msgid "Page not Found"
+msgstr ""
+
+#: inc/techlon-functions.php:18 inc/cs-framework/theme-options.php:1141
+msgid "Back to Home"
+msgstr ""
+
+#: inc/techlon-functions.php:205 inc/techlon-functions.php:229
+msgid "Previous"
+msgstr ""
+
+#: inc/techlon-functions.php:209 inc/techlon-functions.php:232
+msgid "Next"
+msgstr ""
+
+#: inc/techlon-functions.php:379
+msgid " "
+msgstr ""
+
+#: inc/techlon-functions.php:413
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: inc/techlon-functions.php:420
+msgid "(Edit)"
+msgstr ""
+
+#: inc/techlon-functions.php:722
+msgid "Clients:"
+msgstr ""
+
+#: inc/techlon-functions.php:728
+msgid "Category:"
+msgstr ""
+
+#: inc/techlon-functions.php:733
+msgid "Date:"
+msgstr ""
+
+#: inc/techlon-functions.php:740
+msgid "Value:"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:7
+msgid "Metabox Options"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:14
+msgid "Header Style"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:19
+msgid "Enable Header"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:25
+msgid "Select Header Style"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:28
+msgid "Select an option"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:30
+msgid "Style One"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:31
+msgid "Style Two"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:32
+msgid "Style Three"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:39
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:44
+#: inc/cs-framework/theme-options.php:1106
+msgid "Enable Banner"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:50
+#: inc/cs-framework/theme-options.php:874
+msgid "Banner Background"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:65
+#: inc/cs-framework/theme-options.php:895
+msgid "Banner Background 2"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:77
+msgid "Custom Banner Title"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:79
+msgid "Leave this field empty to use default title for banner"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:84
+#: inc/cs-framework/theme-options.php:913
+msgid "Banner Padding"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:92
+#: inc/cs-framework/theme-options.php:920
+msgid "Banner Margin"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:101
+msgid "Footer Section"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:106
+msgid "Padding"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:117
+msgid "Service Options"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:124
+msgid "Service Details"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:129
+msgid "Choose Icon"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:138
+msgid "Team Options"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:145
+msgid "Team Member Details"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:150
+msgid "Designation"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:155
+msgid "Social Media Links"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:160
+#: inc/cs-framework/metabox-options.php:246
+msgid "Socail Name"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:162
+#: inc/cs-framework/metabox-options.php:179
+#: inc/cs-framework/metabox-options.php:248
+#: inc/cs-framework/metabox-options.php:265
+#: inc/cs-framework/theme-options.php:487
+#: inc/cs-framework/theme-options.php:819
+#: inc/cs-framework/theme-options.php:836
+#: inc/cs-framework/theme-options.php:1200
+#: inc/cs-framework/theme-options.php:1217
+msgid "Twitter"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:166
+#: inc/cs-framework/metabox-options.php:252
+msgid "Socail Icon"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:172
+#: inc/cs-framework/metabox-options.php:258
+msgid "Socail Link"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:184
+#: inc/cs-framework/metabox-options.php:270
+#: inc/cs-framework/theme-options.php:492
+#: inc/cs-framework/theme-options.php:841
+#: inc/cs-framework/theme-options.php:1222
+msgid "Facebook"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:189
+#: inc/cs-framework/theme-options.php:497
+#: inc/cs-framework/theme-options.php:846
+#: inc/cs-framework/theme-options.php:1227
+msgid "Pinterest"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:194
+#: inc/cs-framework/metabox-options.php:275
+#: inc/cs-framework/theme-options.php:502
+#: inc/cs-framework/theme-options.php:851
+#: inc/cs-framework/theme-options.php:1232
+msgid "Instagram"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:204
+msgid "Project Metabox Options"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:211
+msgid "Project Metabox"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:215
+msgid "Details Image"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:216
+msgid "This Image will be shown in single page instead of thumbnail image"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:224
+msgid "Client Name"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:225
+msgid "David Jackson"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:230
+msgid "Project Value"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:231
+msgid "87,000"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:236
+msgid "Project Value Currency"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:237
+msgid "USD"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:242
+#: inc/cs-framework/theme-options.php:812
+msgid "Socials"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:283
+msgid "Slider Big Image"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:285
+msgid "This image will be shown in project slider if you want."
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:291
+msgid "Show Similar Projects"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:297
+#: inc/cs-framework/theme-options.php:434
+#: inc/cs-framework/theme-options.php:733
+msgid "Title"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:304
+msgid "Subtitle"
+msgstr ""
+
+#: inc/cs-framework/metabox-options.php:306
+msgid "Similar Projects"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:8 inc/cs-framework/theme-options.php:12
+msgid "Techlon Options"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:59
+msgid "General Settings"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:65
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:71
+msgid "Enable Custom Cursor"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:76
+msgid "Base Color Settings"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:80
+msgid "Select Base Colors"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:83
+msgid "Primary Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:84
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:85 inc/cs-framework/theme-options.php:537
+#: inc/cs-framework/theme-options.php:564
+#: inc/cs-framework/theme-options.php:591
+msgid "Text Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:86
+msgid "Text Light Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:87 inc/cs-framework/theme-options.php:538
+#: inc/cs-framework/theme-options.php:565
+#: inc/cs-framework/theme-options.php:592
+#: inc/cs-framework/theme-options.php:630
+#: inc/cs-framework/theme-options.php:646
+#: inc/cs-framework/theme-options.php:662
+#: inc/cs-framework/theme-options.php:676
+msgid "Link Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:88
+msgid "Black Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:89
+msgid "Background Black Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:90
+msgid "Gray Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:91
+msgid "Border Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:107
+msgid "Scroll to top button Settings"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:112
+msgid "Enable Scroll to top button"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:118
+msgid "Select Colors for Scroll to top Button"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:120
+#: inc/cs-framework/theme-options.php:1240
+msgid "Icon Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:121
+msgid "Icon BG Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:122
+msgid "Icon Color Hover"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:123
+msgid "Icon BG Color Hover"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:135
+msgid "Typography"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:141
+msgid "Body"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:153
+msgid "Set Body Typography"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:158
+msgid "Heading One"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:167
+msgid "Set Heading One"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:172
+msgid "Heading Two"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:182
+msgid "Set Heading Two"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:187
+msgid "Heading Three"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:197
+msgid "Set Heading Three"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:202
+msgid "Heading Four"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:212
+msgid "Set Heading Four"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:217
+msgid "Heading Five"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:227
+msgid "Set Heading Five"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:232
+msgid "Heading Six"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:242
+msgid "Set Heading Six"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:250
+msgid "Header Settings"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:255
+msgid "Heading Style"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:261
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:267
+msgid "Choose Header Style"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:278
+msgid "Show logo in header 1"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:285
+msgid "Logo Image 1"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:294
+msgid "Logo 1 Size"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:305
+msgid "Logo 1 Height"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:316
+msgid "Show logo in header 2"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:323
+msgid "Logo Image 2"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:332
+msgid "Second Logo Image for Header 2 "
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:341
+msgid "Logo 2 Size"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:352
+msgid "Logo 2 Height"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:363
+msgid "Show logo in header 3"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:370
+msgid "Logo Image 3"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:379
+msgid "Logo 3 Size"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:390
+msgid "Logo 3 Height"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:404
+msgid "Topbar Settings"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:406
+msgid "Add your Information for Top Header Right Section"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:411
+msgid "Enable Topbar"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:417
+msgid "Topbar Text"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:418
+msgid "Welcome to IT Solutions & Services WordPress Theme"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:424
+msgid "Topbar Right Info"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:429
+msgid "Label"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:439
+#: inc/cs-framework/theme-options.php:726
+#: inc/cs-framework/theme-options.php:823
+msgid "Icon"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:444
+#: inc/cs-framework/theme-options.php:829
+msgid "Link"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:450
+msgid "needhelp@company.com"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:451
+msgid "Send Email"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:453
+msgid "mailto:needhelp@company.com"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:456
+msgid "60 Golden Broklyn Street, New York"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:457
+msgid "Address"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:465
+msgid "Topbar Socials"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:467
+msgid "Select Social Icon for Header Top Right Section"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:472
+msgid "Social's Name"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:477
+msgid "Social's Icon"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:482
+msgid "Social's Link"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:511
+msgid "Enable Button"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:518
+#: inc/cs-framework/theme-options.php:1139
+msgid "Button Text"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:519
+msgid "Free Consultation"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:525
+msgid "Button Link"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:531
+#: inc/cs-framework/theme-options.php:558
+#: inc/cs-framework/theme-options.php:585
+msgid "Topbar Colors"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:533
+msgid "Select Colors for header 1 topbar"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:536
+#: inc/cs-framework/theme-options.php:563
+#: inc/cs-framework/theme-options.php:590
+msgid "Background"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:539
+#: inc/cs-framework/theme-options.php:566
+#: inc/cs-framework/theme-options.php:593
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:540
+#: inc/cs-framework/theme-options.php:567
+#: inc/cs-framework/theme-options.php:594
+msgid "Likn Icon Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:541
+#: inc/cs-framework/theme-options.php:568
+#: inc/cs-framework/theme-options.php:595
+msgid "Likn Icon Hover Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:542
+#: inc/cs-framework/theme-options.php:596
+msgid "Social Icon Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:543
+#: inc/cs-framework/theme-options.php:597
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:560
+msgid "Select Colors for header 2 topbar"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:569
+msgid "Likn Icon BG Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:570
+msgid "Likn Icon BG Hover Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:587
+msgid "Select Colors for header 3 topbar"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:616
+msgid "Header General Options"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:621
+msgid "Color Options"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:625
+msgid "Header 1 Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:629
+#: inc/cs-framework/theme-options.php:645
+#: inc/cs-framework/theme-options.php:661
+msgid "Header BG"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:631
+#: inc/cs-framework/theme-options.php:647
+#: inc/cs-framework/theme-options.php:663
+#: inc/cs-framework/theme-options.php:677
+msgid "Link Hover/Active Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:641
+msgid "Header 2 Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:657
+msgid "Header 3 Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:673
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:678
+msgid "Link BG"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:679
+msgid "Link Hover BG"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:690
+msgid "Search Button"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:695
+msgid "Enable Search Button"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:701
+msgid "Search Icon"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:709
+msgid "Search bar placeholder text"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:710
+msgid "Search Here..."
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:715
+msgid "Contact Options"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:720
+msgid "Enable Contact info"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:734
+msgid "+ 92 ( 8800 ) 9860"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:740
+msgid "Contact Text"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:741
+msgid "Call Anytime"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:750
+msgid "Mobile Menu Settings"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:755
+msgid "Mobile Menu Logo"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:763
+msgid "Logo Size"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:772
+msgid "Contact Info"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:778
+msgid "Text"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:817
+msgid "Name"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:831
+#: inc/cs-framework/theme-options.php:838
+#: inc/cs-framework/theme-options.php:843
+#: inc/cs-framework/theme-options.php:848
+#: inc/cs-framework/theme-options.php:853
+#: inc/cs-framework/theme-options.php:1212
+msgid "#"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:862
+msgid "Layout and Options"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:868
+msgid "Banner / Breadcrumb Area"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:889
+#: inc/cs-framework/theme-options.php:907
+msgid ""
+"Select banner default properties for all page / post. You can override this "
+"settings on individual page / post."
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:890
+#: inc/cs-framework/theme-options.php:908
+msgid ""
+"If you use gradient background color (Second Color) then background image "
+"will not working. Gradient background priority is higher then background "
+"image"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:927
+msgid "Banner Title Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:935
+#: inc/cs-framework/theme-options.php:940
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:945
+msgid "Blog Post/Category/Archive Sidebar"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:953
+msgid ""
+"* Select sidebar layouts for Blog post.It related to Category, Tag and "
+"Archive view."
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:958
+msgid "Service Sidebar"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:966
+msgid "* Select sidebar layouts for Service page view."
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:973
+msgid "Blog / Archive Page Settings"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:978
+msgid "Enable Banner for Blog"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:984
+msgid "Blog Banner Title"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:987
+msgid ""
+"If you want to set custom title than write it here otherwise leave it empty "
+"to use default title"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:991
+#: inc/cs-framework/theme-options.php:1081
+msgid "Show Image"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:994
+#: inc/cs-framework/theme-options.php:1001
+#: inc/cs-framework/theme-options.php:1008
+msgid "This setting also work with archive page"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:998
+#: inc/cs-framework/theme-options.php:1087
+msgid "Show Date"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1005
+#: inc/cs-framework/theme-options.php:1093
+msgid "Show Category"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1012
+msgid "Archive Page Settings"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1016
+msgid "Enable Banner for Archive Page"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1026
+msgid "Single Post Details"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1031
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1037
+msgid "Show Post Category"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1043
+msgid "Show Post Tags"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1049
+msgid "Show Social Share Links"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1055
+msgid "Show Post Author Info"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1063
+msgid "Search Page"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1069
+msgid "Enable Search Banner"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1075
+#: inc/cs-framework/theme-options.php:1112
+msgid "Banner Title"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1076
+msgid "Search Results for:"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1101
+msgid "404 Error Page"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1119
+msgid "Not Found Text"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1127
+msgid "Enable Search Field"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1133
+msgid "Enable Home Button"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1150
+msgid "Footer Opitons"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1155
+msgid "General Footer Option"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1161
+msgid "Footer Background"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1174
+msgid "Footer Padding"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1181
+msgid "Footer Margin"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1188
+#: inc/cs-framework/theme-options.php:1193
+msgid "Social Links"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1199
+msgid "Socials Name"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1205
+msgid "Socials Icon"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1211
+msgid "Socials Link"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1247
+msgid "Icon Background"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1254
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1261
+#: inc/cs-framework/theme-options.php:1269
+msgid "Icon Hover Background"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1275
+msgid "Bootom Footer"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1280
+msgid "Bottom Footer Text"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1286
+msgid "Bottom Footer Background"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1294
+msgid "Bottom Footer Color"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1305
+msgid "Footer Layout Setting"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1311
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1329
+msgid "Select Footer Column layout View for widgets."
+msgstr ""
+
+#: inc/cs-framework/theme-options.php:1334
+msgid "Backup"
+msgstr ""
+
+#: inc/plugin-activation.php:15
+msgid "Codestar Framework"
+msgstr ""
+
+#: inc/plugin-activation.php:21
+msgid "Techlon Core"
+msgstr ""
+
+#: inc/plugin-activation.php:27
+msgid "Elementor"
+msgstr ""
+
+#: inc/plugin-activation.php:32
+msgid "Breadcrumb Navxt"
+msgstr ""
+
+#: inc/plugin-activation.php:37
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/template-functions.php:45
+msgid "Tags:"
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:70
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:77
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: page-template/full-width.php:42 template-parts/content-page.php:24
+#: template-parts/content-single.php:54
+msgid "Pages:"
+msgstr ""
+
+#: search.php:24
+#, php-format
+msgid "%s %s"
+msgstr ""
+
+#: searchform.php:3 searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-blog-grid.php:32 template-parts/content-search.php:40
+#: template-parts/content.php:38
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/header/header-default.php:9
+#: template-parts/header/header-one.php:59
+#: template-parts/header/header-three.php:57
+#: template-parts/header/header-two.php:68
+msgid "Set Primary Menu."
+msgstr ""

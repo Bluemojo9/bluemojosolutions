@@ -1,0 +1,36 @@
+.techlon-column-stretched-yes .techlon-stretched-section
+{
+	position: absolute;
+	height: 100%;
+	top: 0;
+	left: 0;
+	width: auto;
+}
+
+.techlon-column-stretched-yes .techlon-stretched-section:before
+{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	content: "";
+	display: block;
+}
+
+.techlon-column-stretched-left .techlon-stretched-section
+{
+	margin-left: -800px !important;
+	right: 0;
+}
+
+.techlon-column-stretched-right .techlon-stretched-section
+{
+	margin-right: -800px !important;
+	right: 0;
+}
+
+.techlon-column-stretched-yes img
+{
+	width: 100%;
+}

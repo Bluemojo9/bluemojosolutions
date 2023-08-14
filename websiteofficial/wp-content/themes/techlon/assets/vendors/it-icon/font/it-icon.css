@@ -1,0 +1,65 @@
+@font-face {
+	font-family: "IT Icons";
+	src: url("./it-icon.eot");
+	src: url("./it-icon.eot?#iefix") format("embedded-opentype"),
+			 url("./it-icon.woff2") format("woff2"),
+			 url("./it-icon.woff") format("woff"),
+			 url("./it-icon.ttf") format("truetype"),
+			 url("./it-icon.svg#it-icon") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+		font-family: "IT Icons";
+		src: url("./it-icon.svg#it-icon") format("svg");
+	}
+}
+[class^="it-icon-"]:before, [class*=" it-icon-"]:before, [class^="it-icon-"]:after, [class*=" it-icon-"]:after {
+	display: inline-block;
+	font-family: "IT Icons";
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	line-height: 1;
+	text-decoration: inherit;
+	text-rendering: optimizeLegibility;
+	text-transform: none;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}
+
+.it-icon-001-analysis:before { content: "\f100"; }
+.it-icon-002-antenna:before { content: "\f101"; }
+.it-icon-003-malware:before { content: "\f102"; }
+.it-icon-004-client:before { content: "\f103"; }
+.it-icon-005-cloud-download:before { content: "\f104"; }
+.it-icon-006-cloud-hosting:before { content: "\f105"; }
+.it-icon-007-cloud-upload:before { content: "\f106"; }
+.it-icon-008-coding:before { content: "\f107"; }
+.it-icon-009-wireless-connectivity:before { content: "\f108"; }
+.it-icon-010-microprocessor:before { content: "\f109"; }
+.it-icon-011-cpu:before { content: "\f10a"; }
+.it-icon-012-cyber-attack:before { content: "\f10b"; }
+.it-icon-013-data-transfer:before { content: "\f10c"; }
+.it-icon-014-database-storage:before { content: "\f10d"; }
+.it-icon-015-digitalization:before { content: "\f10e"; }
+.it-icon-016-digitalization:before { content: "\f10f"; }
+.it-icon-017-smart-home:before { content: "\f110"; }
+.it-icon-018-information-management:before { content: "\f111"; }
+.it-icon-019-server-traffic:before { content: "\f112"; }
+.it-icon-020-information:before { content: "\f113"; }
+.it-icon-021-innovation:before { content: "\f114"; }
+.it-icon-022-internet-of-things:before { content: "\f115"; }
+.it-icon-023-configuration:before { content: "\f116"; }
+.it-icon-024-technical-support:before { content: "\f117"; }
+.it-icon-025-maintenance:before { content: "\f118"; }
+.it-icon-026-node:before { content: "\f119"; }
+.it-icon-027-networking:before { content: "\f11a"; }
+.it-icon-028-programmer:before { content: "\f11b"; }
+.it-icon-029-internet-connection:before { content: "\f11c"; }
+.it-icon-030-satellite:before { content: "\f11d"; }
+.it-icon-031-server-storage:before { content: "\f11e"; }
+.it-icon-032-user:before { content: "\f11f"; }
